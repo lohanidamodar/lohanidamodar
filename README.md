@@ -23,7 +23,11 @@ I'm a software engineer and tech consultant
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+- [@Flutter + #Appwrite : EP 10 - Deploying Appwrite Server in VPS + Tips for Appwrite in Production](https://www.youtube.com/watch?v=WzHdvLItrEc)
+- [Flutter - What's new in version 1.20](https://www.youtube.com/watch?v=lN9Vc1gb5pk)
+- [Flutter - Getting Started with Web and Responsive Design 2020](https://www.youtube.com/watch?v=BA5geMDGe1o)
+- [@Flutter + #Appwrite : EP 09 - Searching, ordering and filtering documents](https://www.youtube.com/watch?v=bcG7G-1QBOk)
+- [Flutter - Beautiful Navigation Menu - Speed Code](https://www.youtube.com/watch?v=OcPQuA2cNrM)
 <!-- YOUTUBE:END -->
 
 ---
