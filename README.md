@@ -23,11 +23,11 @@ I'm a software engineer and tech consultant
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [React Bits Live Episode 1 - Let's talk Flutter](https://www.youtube.com/watch?v=M5B4QefEdGs)
 - [Flutter - Login UI Speed Code](https://www.youtube.com/watch?v=_kzu9ph9xZ8)
 - [Flutter Plugin - URL Preview](https://www.youtube.com/watch?v=8c-EIwbNchw)
 - [@Flutter + @Firebase  Ecosystem Updates - Upgrade your existing project](https://www.youtube.com/watch?v=CQ-35tDqlsw)
 - [Whats coming to #Appwrite 0.7 and beyond](https://www.youtube.com/watch?v=QEzvo9sUkik)
-- [@Flutter + #Appwrite: EP 11 - User preferences and Locale API](https://www.youtube.com/watch?v=qKkgXy3H7Mw)
 <!-- YOUTUBE:END -->
 
 ---
