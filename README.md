@@ -23,11 +23,11 @@ I'm a software engineer and tech consultant
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [React Bits | Live EP 02 - Let's Build Android Launcher App in Flutter](https://www.youtube.com/watch?v=5QJU3QIBLIw)
 - [@Flutter  Plugin - Animator](https://www.youtube.com/watch?v=lLEamLsoZWU)
 - [React Bits Live Episode 1 - Let's talk Flutter](https://www.youtube.com/watch?v=M5B4QefEdGs)
 - [Flutter - Login UI Speed Code](https://www.youtube.com/watch?v=_kzu9ph9xZ8)
 - [Flutter Plugin - URL Preview](https://www.youtube.com/watch?v=8c-EIwbNchw)
+- [@Flutter + @Firebase  Ecosystem Updates - Upgrade your existing project](https://www.youtube.com/watch?v=CQ-35tDqlsw)
 <!-- YOUTUBE:END -->
 
 ---
