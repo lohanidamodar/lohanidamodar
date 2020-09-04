@@ -34,11 +34,11 @@ I'm a software engineer and tech consultant
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Appwrite Tutorial Series — (ongoing)](https://medium.com/@LohaniDamodar/flutter-appwrite-tutorial-series-ongoing-72ef3d5bb8ba?source=rss-21afa4abace7------2)
 - [Flutter URL Preview](https://medium.com/@LohaniDamodar/flutter-url-preview-a386920bdfe6?source=rss-21afa4abace7------2)
 - [Flutter Recipes 2 — Firebase Firestore Recipes](https://medium.com/@LohaniDamodar/flutter-recipes-2-firebase-firestore-recipes-2f09e58a7298?source=rss-21afa4abace7------2)
 - [Most common misconception among beginner Mobile App Developers](https://medium.com/@LohaniDamodar/most-common-misconception-among-beginner-mobile-app-developers-6309b08f36a7?source=rss-21afa4abace7------2)
 - [Flutter Recipes 1 : ListView recipes](https://medium.com/@LohaniDamodar/flutter-recipes-1-listview-recipes-e604f63460bd?source=rss-21afa4abace7------2)
-- [Date And Time Pickers in Flutter without using Any Packages](https://medium.com/@LohaniDamodar/date-and-time-pickers-in-flutter-without-using-any-packages-1de04a13938c?source=rss-21afa4abace7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
