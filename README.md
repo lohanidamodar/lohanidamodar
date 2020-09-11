@@ -24,10 +24,10 @@ I'm a software engineer and tech consultant
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [@Flutter Plugin - Device Info](https://www.youtube.com/watch?v=btEKesDGu8I)
-- [🔴 React Bits | Live EP 03 - Let's Build Dictionary App in Flutter](https://www.youtube.com/watch?v=FNT32A8HHGQ)
 - [Flutter Yet another Login UI - Speed Code](https://www.youtube.com/watch?v=gllY2OycAmM)
 - [@Flutter + #Appwrite: EP 12 - Storage, uploading files, image previews](https://www.youtube.com/watch?v=CNjvNNYWgGU)
 - [@Flutter Plugin - Connection status bar](https://www.youtube.com/watch?v=-0rGDRGj-Vs)
+- [Flutter Quotes UI - Speed Code](https://www.youtube.com/watch?v=qcGP_w3s_pM)
 <!-- YOUTUBE:END -->
 
 ---
