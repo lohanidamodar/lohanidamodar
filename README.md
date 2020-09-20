@@ -44,6 +44,9 @@ I'm a software engineer and tech consultant
 - [Flutter Recipes 2 — Firebase Firestore Recipes](https://medium.com/@LohaniDamodar/flutter-recipes-2-firebase-firestore-recipes-2f09e58a7298?source=rss-21afa4abace7------2)
 - [Most common misconception among beginner Mobile App Developers](https://medium.com/@LohaniDamodar/most-common-misconception-among-beginner-mobile-app-developers-6309b08f36a7?source=rss-21afa4abace7------2)
 - [Flutter Recipes 1 : ListView recipes](https://medium.com/@LohaniDamodar/flutter-recipes-1-listview-recipes-e604f63460bd?source=rss-21afa4abace7------2)
+- [Date And Time Pickers in Flutter without using Any Packages](https://medium.com/@LohaniDamodar/date-and-time-pickers-in-flutter-without-using-any-packages-1de04a13938c?source=rss-21afa4abace7------2)
+- [Prepare Your Flutter App to Publish to Google Play Store (easiest way)](https://medium.com/@LohaniDamodar/prepare-your-flutter-app-to-publish-to-google-play-store-easiest-way-fb2efbff8b22?source=rss-21afa4abace7------2)
+- [Top 7 YouTube channels I follow for Flutter tutorials](https://medium.com/@LohaniDamodar/top-7-youtube-channels-i-follow-for-flutter-tutorials-b7035968a9ad?source=rss-21afa4abace7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
