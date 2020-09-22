@@ -23,6 +23,7 @@ I'm a software engineer and tech consultant
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Code Snippets in VS Code - Productivity Hack](https://www.youtube.com/watch?v=5zd1iga80rA)
 - [Flutter - The new Cross Platform Development Standard](https://www.youtube.com/watch?v=DzzCorPad3A)
 - [Flutter - Firebase Auth Updates September 2020](https://www.youtube.com/watch?v=s0TlqY5ePQU)
 - [@Flutter Plugin - fluttertoast](https://www.youtube.com/watch?v=OnCThNgNWFc)
@@ -32,7 +33,6 @@ I'm a software engineer and tech consultant
 - [@Flutter + #Appwrite: EP 12 - Storage, uploading files, image previews](https://www.youtube.com/watch?v=CNjvNNYWgGU)
 - [@Flutter Plugin - Connection status bar](https://www.youtube.com/watch?v=-0rGDRGj-Vs)
 - [Flutter Quotes UI - Speed Code](https://www.youtube.com/watch?v=qcGP_w3s_pM)
-- [🔴 React Bits | Live EP 02 - Let's Build Android Launcher App in Flutter](https://www.youtube.com/watch?v=5QJU3QIBLIw)
 <!-- YOUTUBE:END -->
 
 ---
