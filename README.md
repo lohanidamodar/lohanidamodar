@@ -23,6 +23,7 @@ I'm a software engineer and tech consultant
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [@Flutter Plugin - Flutter Auth Buttons](https://www.youtube.com/watch?v=Vc0kUKosNzk)
 - [Flutter - Error Handling - Catching, Reporting, Notifying Users](https://www.youtube.com/watch?v=wj_oAoVIHqs)
 - [Code Snippets in VS Code - Productivity Hack](https://www.youtube.com/watch?v=5zd1iga80rA)
 - [Flutter - The new Cross Platform Development Standard](https://www.youtube.com/watch?v=DzzCorPad3A)
@@ -32,7 +33,6 @@ I'm a software engineer and tech consultant
 - [@Flutter Plugin - Device Info](https://www.youtube.com/watch?v=btEKesDGu8I)
 - [Flutter Yet another Login UI - Speed Code](https://www.youtube.com/watch?v=gllY2OycAmM)
 - [@Flutter + #Appwrite: EP 12 - Storage, uploading files, image previews](https://www.youtube.com/watch?v=CNjvNNYWgGU)
-- [@Flutter Plugin - Connection status bar](https://www.youtube.com/watch?v=-0rGDRGj-Vs)
 <!-- YOUTUBE:END -->
 
 ---
