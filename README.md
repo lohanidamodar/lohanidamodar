@@ -23,6 +23,7 @@ I'm a software engineer and tech consultant
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter - Getting Your App Ready for Mobile, Web and Desktop](https://www.youtube.com/watch?v=F3aGPsUapOU)
 - [@Flutter Plugin - Flutter Auth Buttons](https://www.youtube.com/watch?v=Vc0kUKosNzk)
 - [Flutter - Error Handling - Catching, Reporting, Notifying Users](https://www.youtube.com/watch?v=wj_oAoVIHqs)
 - [Code Snippets in VS Code - Productivity Hack](https://www.youtube.com/watch?v=5zd1iga80rA)
@@ -32,7 +33,6 @@ I'm a software engineer and tech consultant
 - [🔴 React Bits | Live EP 03 - Let's Build Dictionary App in Flutter](https://www.youtube.com/watch?v=FNT32A8HHGQ)
 - [@Flutter Plugin - Device Info](https://www.youtube.com/watch?v=btEKesDGu8I)
 - [Flutter Yet another Login UI - Speed Code](https://www.youtube.com/watch?v=gllY2OycAmM)
-- [@Flutter + #Appwrite: EP 12 - Storage, uploading files, image previews](https://www.youtube.com/watch?v=CNjvNNYWgGU)
 <!-- YOUTUBE:END -->
 
 ---
