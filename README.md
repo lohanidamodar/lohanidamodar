@@ -23,6 +23,8 @@ I'm a software engineer and tech consultant
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [My Flutter Developer Road-map](https://www.youtube.com/watch?v=ZLBPD2HG1H0)
+- [My Flutter Developer Road-map | Nepali (मेरो Flutter Developer रोडम्याप )](https://www.youtube.com/watch?v=U-XGXdwYJ2U)
 - [Flutter - Beyond Firebase Auth - User Management](https://www.youtube.com/watch?v=A0Fn5pgDTn0)
 - [Flutter - Getting Your App Ready for Mobile, Web and Desktop](https://www.youtube.com/watch?v=F3aGPsUapOU)
 - [@Flutter Plugin - Flutter Auth Buttons](https://www.youtube.com/watch?v=Vc0kUKosNzk)
@@ -31,8 +33,6 @@ I'm a software engineer and tech consultant
 - [Flutter - The new Cross Platform Development Standard](https://www.youtube.com/watch?v=DzzCorPad3A)
 - [Flutter - Firebase Auth Updates September 2020](https://www.youtube.com/watch?v=s0TlqY5ePQU)
 - [@Flutter Plugin - fluttertoast](https://www.youtube.com/watch?v=OnCThNgNWFc)
-- [🔴 React Bits | Live EP 03 - Let's Build Dictionary App in Flutter](https://www.youtube.com/watch?v=FNT32A8HHGQ)
-- [@Flutter Plugin - Device Info](https://www.youtube.com/watch?v=btEKesDGu8I)
 <!-- YOUTUBE:END -->
 
 ---
