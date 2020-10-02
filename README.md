@@ -23,6 +23,7 @@ I'm a software engineer and tech consultant
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter - What's new in Flutter 1.22](https://www.youtube.com/watch?v=qReYr25TR_E)
 - [@Flutter Plugin - Package Info](https://www.youtube.com/watch?v=aJfSXnGW7HQ)
 - [My Flutter Developer Road-map](https://www.youtube.com/watch?v=ZLBPD2HG1H0)
 - [My Flutter Developer Road-map | Nepali (मेरो Flutter Developer रोडम्याप )](https://www.youtube.com/watch?v=U-XGXdwYJ2U)
@@ -32,7 +33,6 @@ I'm a software engineer and tech consultant
 - [Flutter - Error Handling - Catching, Reporting, Notifying Users](https://www.youtube.com/watch?v=wj_oAoVIHqs)
 - [Code Snippets in VS Code - Productivity Hack](https://www.youtube.com/watch?v=5zd1iga80rA)
 - [Flutter - The new Cross Platform Development Standard](https://www.youtube.com/watch?v=DzzCorPad3A)
-- [Flutter - Firebase Auth Updates September 2020](https://www.youtube.com/watch?v=s0TlqY5ePQU)
 <!-- YOUTUBE:END -->
 
 ---
