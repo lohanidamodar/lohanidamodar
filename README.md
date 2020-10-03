@@ -27,7 +27,7 @@ I'm a software engineer and tech consultant
 - [@Flutter Plugin - Package Info](https://www.youtube.com/watch?v=aJfSXnGW7HQ)
 - [My Flutter Developer Road-map](https://www.youtube.com/watch?v=ZLBPD2HG1H0)
 - [My Flutter Developer Road-map | Nepali (मेरो Flutter Developer रोडम्याप )](https://www.youtube.com/watch?v=U-XGXdwYJ2U)
-- [Flutter - Beyond Firebase Auth - User Management](https://www.youtube.com/watch?v=A0Fn5pgDTn0)
+- [Flutter - Beyond Firebase Auth - User Roles with Firestore](https://www.youtube.com/watch?v=A0Fn5pgDTn0)
 - [Flutter - Getting Your App Ready for Mobile, Web and Desktop](https://www.youtube.com/watch?v=F3aGPsUapOU)
 - [@Flutter Plugin - Flutter Auth Buttons](https://www.youtube.com/watch?v=Vc0kUKosNzk)
 - [Flutter - Error Handling - Catching, Reporting, Notifying Users](https://www.youtube.com/watch?v=wj_oAoVIHqs)
