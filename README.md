@@ -9,6 +9,9 @@ I'm a software engineer and tech consultant
 - 💬 Ask me about Technology, Tech career in Nepal, Flutter and Dart
 - ⚡ Fun fact: I watch a lots of Movies specially Sc-Fi and Fantasy
 
+### Tech Stack
+<img src="assets/tech.svg" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" /> <br /><br />
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
