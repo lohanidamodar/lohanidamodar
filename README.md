@@ -26,6 +26,7 @@ I'm a software engineer and tech consultant
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Powerful and Blazing Fast Blogging Framework | Hexo - Review](https://www.youtube.com/watch?v=pUl-wGEDHsM)
 - [Flutter - What's new in Flutter 1.22](https://www.youtube.com/watch?v=qReYr25TR_E)
 - [@Flutter Plugin - Package Info](https://www.youtube.com/watch?v=aJfSXnGW7HQ)
 - [My Flutter Developer Road-map](https://www.youtube.com/watch?v=ZLBPD2HG1H0)
@@ -35,7 +36,6 @@ I'm a software engineer and tech consultant
 - [@Flutter Plugin - Flutter Auth Buttons](https://www.youtube.com/watch?v=Vc0kUKosNzk)
 - [Flutter - Error Handling - Catching, Reporting, Notifying Users](https://www.youtube.com/watch?v=wj_oAoVIHqs)
 - [Code Snippets in VS Code - Productivity Hack](https://www.youtube.com/watch?v=5zd1iga80rA)
-- [Flutter - The new Cross Platform Development Standard](https://www.youtube.com/watch?v=DzzCorPad3A)
 <!-- YOUTUBE:END -->
 
 ---
