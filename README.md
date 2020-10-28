@@ -26,6 +26,7 @@ I'm a software engineer and tech consultant
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Dart Singleton Pattern](https://www.youtube.com/watch?v=f5bv8BVF1O8)
 - [Becoming a Professional Developer in 2020 and Beyond](https://www.youtube.com/watch?v=rkSwqGgvXZY)
 - [Powerful and Blazing Fast Blogging Framework | Hexo - Review](https://www.youtube.com/watch?v=pUl-wGEDHsM)
 - [Flutter - What's new in Flutter 1.22](https://www.youtube.com/watch?v=qReYr25TR_E)
@@ -35,7 +36,6 @@ I'm a software engineer and tech consultant
 - [Flutter - Beyond Firebase Auth - User Roles with Firestore](https://www.youtube.com/watch?v=A0Fn5pgDTn0)
 - [Flutter - Getting Your App Ready for Mobile, Web and Desktop](https://www.youtube.com/watch?v=F3aGPsUapOU)
 - [@Flutter Plugin - Flutter Auth Buttons](https://www.youtube.com/watch?v=Vc0kUKosNzk)
-- [Flutter - Error Handling - Catching, Reporting, Notifying Users](https://www.youtube.com/watch?v=wj_oAoVIHqs)
 <!-- YOUTUBE:END -->
 
 ---
