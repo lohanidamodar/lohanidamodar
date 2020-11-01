@@ -26,6 +26,8 @@ I'm a software engineer and tech consultant
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[1] State Management ?? | @Flutter State Management Hero](https://www.youtube.com/watch?v=JeBVRL2WLQs)
+- [[0] Introduction | @Flutter State Management Hero](https://www.youtube.com/watch?v=nGkYUUBfS34)
 - [Dart Singleton Pattern](https://www.youtube.com/watch?v=f5bv8BVF1O8)
 - [Becoming a Professional Developer in 2020 and Beyond](https://www.youtube.com/watch?v=rkSwqGgvXZY)
 - [Powerful and Blazing Fast Blogging Framework | Hexo - Review](https://www.youtube.com/watch?v=pUl-wGEDHsM)
@@ -34,8 +36,6 @@ I'm a software engineer and tech consultant
 - [My Flutter Developer Road-map](https://www.youtube.com/watch?v=ZLBPD2HG1H0)
 - [My Flutter Developer Road-map | Nepali (मेरो Flutter Developer रोडम्याप )](https://www.youtube.com/watch?v=U-XGXdwYJ2U)
 - [Flutter - Beyond Firebase Auth - User Roles with Firestore](https://www.youtube.com/watch?v=A0Fn5pgDTn0)
-- [Flutter - Getting Your App Ready for Mobile, Web and Desktop](https://www.youtube.com/watch?v=F3aGPsUapOU)
-- [@Flutter Plugin - Flutter Auth Buttons](https://www.youtube.com/watch?v=Vc0kUKosNzk)
 <!-- YOUTUBE:END -->
 
 ---
