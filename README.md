@@ -26,6 +26,7 @@ I'm a software engineer and tech consultant
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[3] Setup Project, API Call in Flutter using HTTP package | @Flutter State Management Hero](https://www.youtube.com/watch?v=vDKl1U2CLlM)
 - [[0.1] @Flutter - Demo | State Management Hero](https://www.youtube.com/watch?v=6tcdt2JB_Jc)
 - [[2] Build your own REST API with Nest JS | @Flutter State Management Hero](https://www.youtube.com/watch?v=5cCcOWRPoYQ)
 - [[1] State Management ?? | @Flutter State Management Hero](https://www.youtube.com/watch?v=JeBVRL2WLQs)
@@ -35,7 +36,6 @@ I'm a software engineer and tech consultant
 - [Powerful and Blazing Fast Blogging Framework | Hexo - Review](https://www.youtube.com/watch?v=pUl-wGEDHsM)
 - [Flutter - What's new in Flutter 1.22](https://www.youtube.com/watch?v=qReYr25TR_E)
 - [@Flutter Plugin - Package Info](https://www.youtube.com/watch?v=aJfSXnGW7HQ)
-- [My Flutter Developer Road-map](https://www.youtube.com/watch?v=ZLBPD2HG1H0)
 <!-- YOUTUBE:END -->
 
 ---
