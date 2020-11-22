@@ -26,6 +26,7 @@ I'm a software engineer and tech consultant
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Personal Project to Enhance Your Portfolio in a Day  - Build GitHub Profile Visualizer with Svelte](https://www.youtube.com/watch?v=iujyLu4YTjA)
 - [[3] Setup Project, API Call in Flutter using HTTP package | @Flutter State Management Hero](https://www.youtube.com/watch?v=vDKl1U2CLlM)
 - [[0.1] @Flutter - Demo | State Management Hero](https://www.youtube.com/watch?v=6tcdt2JB_Jc)
 - [[2] Build your own REST API with Nest JS | @Flutter State Management Hero](https://www.youtube.com/watch?v=5cCcOWRPoYQ)
@@ -35,7 +36,6 @@ I'm a software engineer and tech consultant
 - [Becoming a Professional Developer in 2020 and Beyond](https://www.youtube.com/watch?v=rkSwqGgvXZY)
 - [Powerful and Blazing Fast Blogging Framework | Hexo - Review](https://www.youtube.com/watch?v=pUl-wGEDHsM)
 - [Flutter - What's new in Flutter 1.22](https://www.youtube.com/watch?v=qReYr25TR_E)
-- [@Flutter Plugin - Package Info](https://www.youtube.com/watch?v=aJfSXnGW7HQ)
 <!-- YOUTUBE:END -->
 
 ---
