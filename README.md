@@ -30,16 +30,16 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Flutter - What's new in Flutter 1.22](https://www.youtube.com/watch?v=qReYr25TR_E)
-- [@Flutter Plugin - Package Info](https://www.youtube.com/watch?v=aJfSXnGW7HQ)
-- [My Flutter Developer Road-map](https://www.youtube.com/watch?v=ZLBPD2HG1H0)
-- [My Flutter Developer Road-map | Nepali (मेरो Flutter Developer रोडम्याप )](https://www.youtube.com/watch?v=U-XGXdwYJ2U)
-- [Flutter - Beyond Firebase Auth - User Roles with Firestore](https://www.youtube.com/watch?v=A0Fn5pgDTn0)
-- [Flutter - Getting Your App Ready for Mobile, Web and Desktop](https://www.youtube.com/watch?v=F3aGPsUapOU)
-- [@Flutter Plugin - Flutter Auth Buttons](https://www.youtube.com/watch?v=Vc0kUKosNzk)
-- [Flutter - Error Handling - Catching, Reporting, Notifying Users](https://www.youtube.com/watch?v=wj_oAoVIHqs)
-- [Code Snippets in VS Code - Productivity Hack](https://www.youtube.com/watch?v=5zd1iga80rA)
-- [Flutter - The new Cross Platform Development Standard](https://www.youtube.com/watch?v=DzzCorPad3A)
+- [[4] Getting Started with Riverpod - Provider, FutureProvider, StateProvider | State Management Hero](https://www.youtube.com/watch?v=zcoFUh89MS8)
+- [Personal Project to Enhance Your Portfolio in a Day  - Build GitHub Profile Visualizer with Svelte](https://www.youtube.com/watch?v=iujyLu4YTjA)
+- [[3] Setup Project, API Call in Flutter using HTTP package | @Flutter State Management Hero](https://www.youtube.com/watch?v=vDKl1U2CLlM)
+- [[0.1] @Flutter - Demo | State Management Hero](https://www.youtube.com/watch?v=6tcdt2JB_Jc)
+- [[2] Build your own REST API with Nest JS | @Flutter State Management Hero](https://www.youtube.com/watch?v=5cCcOWRPoYQ)
+- [[1] State Management ?? | @Flutter State Management Hero](https://www.youtube.com/watch?v=JeBVRL2WLQs)
+- [[0] Introduction | @Flutter State Management Hero](https://www.youtube.com/watch?v=nGkYUUBfS34)
+- [Dart Singleton Pattern](https://www.youtube.com/watch?v=f5bv8BVF1O8)
+- [Becoming a Professional Developer in 2020 and Beyond](https://www.youtube.com/watch?v=rkSwqGgvXZY)
+- [Powerful and Blazing Fast Blogging Framework | Hexo - Review](https://www.youtube.com/watch?v=pUl-wGEDHsM)
 <!-- YOUTUBE:END -->
 
 ---
