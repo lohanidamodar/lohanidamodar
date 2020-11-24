@@ -1,4 +1,4 @@
-### Namaste, Damodar Lohani Here! 👋
+# Namaste, Damodar Lohani Here! 👋
 
 I'm a software engineer and tech consultant
 
@@ -11,6 +11,10 @@ I'm a software engineer and tech consultant
 
 ### Tech Stack
 <img src="assets/tech.svg" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" /> <br /><br />
+___
+
+**[Me and Flutter](https://github.com/lohanidamodar/lohanidamodar/blob/master/FLUTTER.md)**
+___
 
 ### Connect with me:
 
