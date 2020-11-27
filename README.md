@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Svelte + Tailwind = Awesomeness | Build your next front-end projects](https://www.youtube.com/watch?v=74Qz8qSNyXc)
 - [[4] Getting Started with Riverpod - Provider, FutureProvider, StateProvider | State Management Hero](https://www.youtube.com/watch?v=zcoFUh89MS8)
 - [Personal Project to Enhance Your Portfolio in a Day  - Build GitHub Profile Visualizer with Svelte](https://www.youtube.com/watch?v=iujyLu4YTjA)
 - [[3] Setup Project, API Call in Flutter using HTTP package | @Flutter State Management Hero](https://www.youtube.com/watch?v=vDKl1U2CLlM)
@@ -39,7 +40,6 @@ ___
 - [[0] Introduction | @Flutter State Management Hero](https://www.youtube.com/watch?v=nGkYUUBfS34)
 - [Dart Singleton Pattern](https://www.youtube.com/watch?v=f5bv8BVF1O8)
 - [Becoming a Professional Developer in 2020 and Beyond](https://www.youtube.com/watch?v=rkSwqGgvXZY)
-- [Powerful and Blazing Fast Blogging Framework | Hexo - Review](https://www.youtube.com/watch?v=pUl-wGEDHsM)
 <!-- YOUTUBE:END -->
 
 ---
