@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [12 Beautiful VS Code Themes for All Kinds of Developer](https://www.youtube.com/watch?v=0tALCBYEuXU)
 - [[ 1 ] @Flutter Calendar : Customization, Events CRUD with Firestore | Updated](https://www.youtube.com/watch?v=OmoQHhej4gE)
 - [@Flutter - Complex JSON Serialization in Dart | 3 Methods | JSON to Dart/Flutter](https://www.youtube.com/watch?v=Yi2miNcaJ0o)
 - [Svelte + Tailwind = Awesomeness | Build your next front-end projects](https://www.youtube.com/watch?v=74Qz8qSNyXc)
@@ -39,7 +40,6 @@ ___
 - [[0.1] @Flutter - Demo | State Management Hero](https://www.youtube.com/watch?v=6tcdt2JB_Jc)
 - [[2] Build your own REST API with Nest JS | @Flutter State Management Hero](https://www.youtube.com/watch?v=5cCcOWRPoYQ)
 - [[1] State Management ?? | @Flutter State Management Hero](https://www.youtube.com/watch?v=JeBVRL2WLQs)
-- [[0] Introduction | @Flutter State Management Hero](https://www.youtube.com/watch?v=nGkYUUBfS34)
 <!-- YOUTUBE:END -->
 
 ---
