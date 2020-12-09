@@ -30,8 +30,9 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🔴 React Bits | Live EP 04 - Tech Talk | Q/A](https://www.youtube.com/watch?v=PdGwmq5yZoQ)
 - [12 Beautiful VS Code Themes for All Kinds of Developer](https://www.youtube.com/watch?v=0tALCBYEuXU)
-- [[ 1 ] @Flutter Calendar : Customization, Events CRUD with Firestore | Updated](https://www.youtube.com/watch?v=OmoQHhej4gE)
+- [[ 1 ] @Flutter Calendar : Customization, Events CRUD with Firebase Firestore | Updated](https://www.youtube.com/watch?v=OmoQHhej4gE)
 - [@Flutter - Complex JSON Serialization in Dart | 3 Methods | JSON to Dart/Flutter](https://www.youtube.com/watch?v=Yi2miNcaJ0o)
 - [Svelte + Tailwind = Awesomeness | Build your next front-end projects](https://www.youtube.com/watch?v=74Qz8qSNyXc)
 - [[4] Getting Started with Riverpod - Provider, FutureProvider, StateProvider | State Management Hero](https://www.youtube.com/watch?v=zcoFUh89MS8)
@@ -39,7 +40,6 @@ ___
 - [[3] Setup Project, API Call in Flutter using HTTP package | @Flutter State Management Hero](https://www.youtube.com/watch?v=vDKl1U2CLlM)
 - [[0.1] @Flutter - Demo | State Management Hero](https://www.youtube.com/watch?v=6tcdt2JB_Jc)
 - [[2] Build your own REST API with Nest JS | @Flutter State Management Hero](https://www.youtube.com/watch?v=5cCcOWRPoYQ)
-- [[1] State Management ?? | @Flutter State Management Hero](https://www.youtube.com/watch?v=JeBVRL2WLQs)
 <!-- YOUTUBE:END -->
 
 ---
