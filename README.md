@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [@Flutter - 20 Plugins and Packages that supercharges my flutter applications](https://www.youtube.com/watch?v=0dyWzQcR3EY)
 - [🔴 React Bits | Live EP 04 - Tech Talk | Q/A](https://www.youtube.com/watch?v=TGMUdHXQMfY)
 - [[ 2 ]  @Flutter  Calendar - Dynamic Events in Calendar, Auto loading initial, auto load newly added](https://www.youtube.com/watch?v=_LhFPqIjKxE)
 - [@Flutter  Integration Tests using Just announced integration_test package](https://www.youtube.com/watch?v=XmoS767E67I)
@@ -39,7 +40,6 @@ ___
 - [Svelte + Tailwind = Awesomeness | Build your next front-end projects](https://www.youtube.com/watch?v=74Qz8qSNyXc)
 - [[4] Getting Started with Riverpod - Provider, FutureProvider, StateProvider | State Management Hero](https://www.youtube.com/watch?v=zcoFUh89MS8)
 - [Personal Project to Enhance Your Portfolio in a Day  - Build GitHub Profile Visualizer with Svelte](https://www.youtube.com/watch?v=iujyLu4YTjA)
-- [[3] Setup Project, API Call in Flutter using HTTP package | @Flutter State Management Hero](https://www.youtube.com/watch?v=vDKl1U2CLlM)
 <!-- YOUTUBE:END -->
 
 ---
