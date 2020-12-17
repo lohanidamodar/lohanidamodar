@@ -34,12 +34,12 @@ ___
 - [@Flutter - 20 Plugins and Packages that supercharges my flutter applications](https://www.youtube.com/watch?v=0dyWzQcR3EY)
 - [🔴 React Bits | Live EP 04 - Tech Talk | Q/A](https://www.youtube.com/watch?v=TGMUdHXQMfY)
 - [[ 2 ]  @Flutter  Calendar - Dynamic Events in Calendar, Auto loading initial, auto load newly added](https://www.youtube.com/watch?v=_LhFPqIjKxE)
+- [Beautiful - Responsive - Login UI with Tailwind CSS | Speed Code](https://www.youtube.com/watch?v=JMZPjKOk2Lc)
 - [@Flutter  Integration Tests using Just announced integration_test package](https://www.youtube.com/watch?v=XmoS767E67I)
 - [12 Beautiful VS Code Themes for All Kinds of Developer](https://www.youtube.com/watch?v=0tALCBYEuXU)
 - [[ 1 ] @Flutter Calendar : Customization, Events CRUD with Firebase Firestore | Updated](https://www.youtube.com/watch?v=OmoQHhej4gE)
 - [@Flutter - Complex JSON Serialization in Dart | 3 Methods | JSON to Dart/Flutter](https://www.youtube.com/watch?v=Yi2miNcaJ0o)
 - [Svelte + Tailwind = Awesomeness | Build your next front-end projects](https://www.youtube.com/watch?v=74Qz8qSNyXc)
-- [[4] Getting Started with Riverpod - Provider, FutureProvider, StateProvider | State Management Hero](https://www.youtube.com/watch?v=zcoFUh89MS8)
 <!-- YOUTUBE:END -->
 
 ---
