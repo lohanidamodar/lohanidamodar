@@ -30,7 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Automate GitHub Repository Creation | Dart & Puppeteer | ReactBits](https://www.youtube.com/watch?v=EgBJm3TgUao)
+- [Automate with Dart | GitHub Repository Creation | Dart & Puppeteer | ReactBits](https://www.youtube.com/watch?v=EgBJm3TgUao)
 - [Beautiful - Responsive - Login UI with Tailwind CSS | Speed Code](https://www.youtube.com/watch?v=JMZPjKOk2Lc)
 - [[ 5 ] ChangeNotifierProvider - Optimizing quiz app states | @Flutter  State Management Hero Series](https://www.youtube.com/watch?v=x7Y-g5Q4eXw)
 - [@Flutter - 20 Plugins and Packages that supercharges my flutter applications](https://www.youtube.com/watch?v=0dyWzQcR3EY)
