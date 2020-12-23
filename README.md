@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Teaser: Automating Facebook post and Twitter tweet | Dart, Puppeteer, dcli | Tutorial coming soon](https://www.youtube.com/watch?v=BWFs-zeB84M)
 - [Automate with Dart | GitHub Repository Creation | Dart & Puppeteer | ReactBits](https://www.youtube.com/watch?v=EgBJm3TgUao)
 - [Beautiful - Responsive - Login UI with Tailwind CSS | Speed Code](https://www.youtube.com/watch?v=JMZPjKOk2Lc)
 - [[ 5 ] ChangeNotifierProvider - Optimizing quiz app states | @Flutter  State Management Hero Series](https://www.youtube.com/watch?v=x7Y-g5Q4eXw)
@@ -39,7 +40,6 @@ ___
 - [@Flutter  Integration Tests using Just announced integration_test package](https://www.youtube.com/watch?v=XmoS767E67I)
 - [12 Beautiful VS Code Themes for All Kinds of Developer](https://www.youtube.com/watch?v=0tALCBYEuXU)
 - [[ 1 ] @Flutter Calendar : Customization, Events CRUD with Firebase Firestore | Updated](https://www.youtube.com/watch?v=OmoQHhej4gE)
-- [@Flutter - Complex JSON Serialization in Dart | 3 Methods | JSON to Dart/Flutter](https://www.youtube.com/watch?v=Yi2miNcaJ0o)
 <!-- YOUTUBE:END -->
 
 ---
