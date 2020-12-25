@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Let's Automate Our New Project Workflow | Dart & Puppeteer | Automate Boring Stuffs | ReactBits](https://www.youtube.com/watch?v=jPW3FTaoLgA)
 - [Teaser: Automating Facebook post and Twitter tweet | Dart, Puppeteer, dcli | Tutorial coming soon](https://www.youtube.com/watch?v=BWFs-zeB84M)
 - [Automate with Dart | GitHub Repository Creation | Dart & Puppeteer | ReactBits](https://www.youtube.com/watch?v=EgBJm3TgUao)
 - [Beautiful - Responsive - Login UI with Tailwind CSS | Speed Code](https://www.youtube.com/watch?v=JMZPjKOk2Lc)
@@ -39,7 +40,6 @@ ___
 - [[ 2 ]  @Flutter  Calendar - Dynamic Events in Calendar, Auto loading initial, auto load newly added](https://www.youtube.com/watch?v=_LhFPqIjKxE)
 - [@Flutter  Integration Tests using Just announced integration_test package](https://www.youtube.com/watch?v=XmoS767E67I)
 - [12 Beautiful VS Code Themes for All Kinds of Developer](https://www.youtube.com/watch?v=0tALCBYEuXU)
-- [[ 1 ] @Flutter Calendar : Customization, Events CRUD with Firebase Firestore | Updated](https://www.youtube.com/watch?v=OmoQHhej4gE)
 <!-- YOUTUBE:END -->
 
 ---
