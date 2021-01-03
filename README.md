@@ -1,6 +1,6 @@
 # Namaste, Damodar Lohani Here! 👋
 
-I'm a software engineer and tech consultant
+I'm a Web and Mobile engineer and Tech Consultant. Currently working as a Software Engineer at [Appwrite.io](https://appwrite.io)
 
 - 🔭 I’m currently working on Multiple Projects
 - 🌱 I’m currently learning 3d Designing and Game development
