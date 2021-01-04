@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[6] StreamProvider & Family modifier | ​@Flutter State Management Hero](https://www.youtube.com/watch?v=ZWRiH-iBVm8)
 - [10 Awesome VS Code Extensions for Everyone | Enhance Your Workflow |  ReactBits](https://www.youtube.com/watch?v=OsiVsBW3d0k)
 - [[3] @Flutter Calendar - Firestore Query Optimization, events with start date and end date](https://www.youtube.com/watch?v=Ni6LzrPTMrI)
 - [Let's Automate Our New Project Workflow | Dart & Puppeteer | Automate Boring Stuffs | ReactBits](https://www.youtube.com/watch?v=jPW3FTaoLgA)
@@ -39,7 +40,6 @@ ___
 - [[ 5 ] ChangeNotifierProvider - Optimizing quiz app states | @Flutter  State Management Hero Series](https://www.youtube.com/watch?v=x7Y-g5Q4eXw)
 - [@Flutter - 20 Plugins and Packages that supercharges my flutter applications](https://www.youtube.com/watch?v=0dyWzQcR3EY)
 - [🔴 React Bits | Live EP 04 - Tech Talk | Q/A](https://www.youtube.com/watch?v=TGMUdHXQMfY)
-- [[ 2 ]  @Flutter  Calendar - Dynamic Events in Calendar, Auto loading initial, auto load newly added](https://www.youtube.com/watch?v=_LhFPqIjKxE)
 <!-- YOUTUBE:END -->
 
 ---
