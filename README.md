@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[2]  @Flutter  HiveDB - Cache API Data Simple](https://www.youtube.com/watch?v=sKMSAf3dECs)
 - [[1] @Flutter HiveDB - HiveDB fundamentals | One time only Welcome Page](https://www.youtube.com/watch?v=CQG-w_7fbdY)
 - [[6] StreamProvider & Family modifier | ​@Flutter State Management Hero](https://www.youtube.com/watch?v=ZWRiH-iBVm8)
 - [10 Awesome VS Code Extensions for Everyone | Enhance Your Workflow |  ReactBits](https://www.youtube.com/watch?v=OsiVsBW3d0k)
@@ -39,7 +40,6 @@ ___
 - [Automate with Dart | GitHub Repository Creation | Dart & Puppeteer | ReactBits](https://www.youtube.com/watch?v=EgBJm3TgUao)
 - [Beautiful - Responsive - Login UI with Tailwind CSS | Speed Code](https://www.youtube.com/watch?v=JMZPjKOk2Lc)
 - [[ 5 ] ChangeNotifierProvider - Optimizing quiz app states | @Flutter  State Management Hero Series](https://www.youtube.com/watch?v=x7Y-g5Q4eXw)
-- [@Flutter - 20 Plugins and Packages that supercharges my flutter applications](https://www.youtube.com/watch?v=0dyWzQcR3EY)
 <!-- YOUTUBE:END -->
 
 ---
