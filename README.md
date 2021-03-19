@@ -46,14 +46,14 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Appwrite Tutorial Series — (ongoing)](https://medium.com/@lohanidamodar/flutter-appwrite-tutorial-series-ongoing-72ef3d5bb8ba?source=rss-21afa4abace7------2)
-- [Flutter URL Preview](https://medium.com/@lohanidamodar/flutter-url-preview-a386920bdfe6?source=rss-21afa4abace7------2)
-- [Flutter Recipes 2 — Firebase Firestore Recipes](https://medium.com/@lohanidamodar/flutter-recipes-2-firebase-firestore-recipes-2f09e58a7298?source=rss-21afa4abace7------2)
-- [Most common misconception among beginner Mobile App Developers](https://medium.com/@lohanidamodar/most-common-misconception-among-beginner-mobile-app-developers-6309b08f36a7?source=rss-21afa4abace7------2)
-- [Flutter Recipes 1 : ListView recipes](https://medium.com/@lohanidamodar/flutter-recipes-1-listview-recipes-e604f63460bd?source=rss-21afa4abace7------2)
-- [Date And Time Pickers in Flutter without using Any Packages](https://medium.com/@lohanidamodar/date-and-time-pickers-in-flutter-without-using-any-packages-1de04a13938c?source=rss-21afa4abace7------2)
-- [Prepare Your Flutter App to Publish to Google Play Store (easiest way)](https://medium.com/@lohanidamodar/prepare-your-flutter-app-to-publish-to-google-play-store-easiest-way-fb2efbff8b22?source=rss-21afa4abace7------2)
-- [Top 7 YouTube channels I follow for Flutter tutorials](https://medium.com/@lohanidamodar/top-7-youtube-channels-i-follow-for-flutter-tutorials-b7035968a9ad?source=rss-21afa4abace7------2)
+- [Flutter Appwrite Tutorial Series — (ongoing)](https://lohanidamodar.medium.com/flutter-appwrite-tutorial-series-ongoing-72ef3d5bb8ba?source=rss-21afa4abace7------2)
+- [Flutter URL Preview](https://lohanidamodar.medium.com/flutter-url-preview-a386920bdfe6?source=rss-21afa4abace7------2)
+- [Flutter Recipes 2 — Firebase Firestore Recipes](https://lohanidamodar.medium.com/flutter-recipes-2-firebase-firestore-recipes-2f09e58a7298?source=rss-21afa4abace7------2)
+- [Most common misconception among beginner Mobile App Developers](https://lohanidamodar.medium.com/most-common-misconception-among-beginner-mobile-app-developers-6309b08f36a7?source=rss-21afa4abace7------2)
+- [Flutter Recipes 1 : ListView recipes](https://lohanidamodar.medium.com/flutter-recipes-1-listview-recipes-e604f63460bd?source=rss-21afa4abace7------2)
+- [Date And Time Pickers in Flutter without using Any Packages](https://lohanidamodar.medium.com/date-and-time-pickers-in-flutter-without-using-any-packages-1de04a13938c?source=rss-21afa4abace7------2)
+- [Prepare Your Flutter App to Publish to Google Play Store (easiest way)](https://lohanidamodar.medium.com/prepare-your-flutter-app-to-publish-to-google-play-store-easiest-way-fb2efbff8b22?source=rss-21afa4abace7------2)
+- [Top 7 YouTube channels I follow for Flutter tutorials](https://lohanidamodar.medium.com/top-7-youtube-channels-i-follow-for-flutter-tutorials-b7035968a9ad?source=rss-21afa4abace7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
