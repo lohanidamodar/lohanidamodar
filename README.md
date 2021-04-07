@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter 2.0 : Getting Started With Web](https://www.youtube.com/watch?v=bi1k4jjCkoY)
 - [Create and Run Appwrite Functions with Dart](https://www.youtube.com/watch?v=WNIeIYz30Bg)
 - [What's new in Appwrite 0.7 🥳 🚀](https://www.youtube.com/watch?v=uuZq3K4Wjrc)
 - [[3] @Flutter HiveDB - User favorites/bookmarks in HiveDB](https://www.youtube.com/watch?v=N1iIAD7FMXk)
@@ -39,7 +40,6 @@ ___
 - [10 Awesome VS Code Extensions for Everyone | Enhance Your Workflow |  ReactBits](https://www.youtube.com/watch?v=OsiVsBW3d0k)
 - [[3] @Flutter Calendar - Firestore Query Optimization, events with start date and end date](https://www.youtube.com/watch?v=Ni6LzrPTMrI)
 - [Let's Automate Our New Project Workflow | Dart & Puppeteer | Automate Boring Stuffs | ReactBits](https://www.youtube.com/watch?v=jPW3FTaoLgA)
-- [Teaser: Automating Facebook post and Twitter tweet | Dart, Puppeteer, dcli | Tutorial coming soon](https://www.youtube.com/watch?v=BWFs-zeB84M)
 <!-- YOUTUBE:END -->
 
 ---
