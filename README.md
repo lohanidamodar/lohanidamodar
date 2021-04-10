@@ -31,6 +31,7 @@ ___
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Flutter 2.0 - Getting started with Desktop](https://www.youtube.com/watch?v=1a-Hrb3zGdY)
+- [Appwrite ❤️ Flutter : A Trivia Application (Quiz Application)](https://www.youtube.com/watch?v=J3XSlYUhdqs)
 - [Flutter 2.0 : Getting Started With Web](https://www.youtube.com/watch?v=bi1k4jjCkoY)
 - [Create and Run Appwrite Functions with Dart](https://www.youtube.com/watch?v=WNIeIYz30Bg)
 - [What's new in Appwrite 0.7 🥳 🚀](https://www.youtube.com/watch?v=uuZq3K4Wjrc)
@@ -39,7 +40,6 @@ ___
 - [[1] @Flutter HiveDB - HiveDB fundamentals | One time only Welcome Page](https://www.youtube.com/watch?v=CQG-w_7fbdY)
 - [[6] StreamProvider & Family modifier | ​@Flutter State Management Hero](https://www.youtube.com/watch?v=ZWRiH-iBVm8)
 - [10 Awesome VS Code Extensions for Everyone | Enhance Your Workflow |  ReactBits](https://www.youtube.com/watch?v=OsiVsBW3d0k)
-- [[3] @Flutter Calendar - Firestore Query Optimization, events with start date and end date](https://www.youtube.com/watch?v=Ni6LzrPTMrI)
 <!-- YOUTUBE:END -->
 
 ---
