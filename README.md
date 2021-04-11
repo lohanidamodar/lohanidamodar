@@ -30,8 +30,8 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Flutter 2.0 - Getting started with Desktop](https://www.youtube.com/watch?v=1a-Hrb3zGdY)
 - [Appwrite ❤️ Flutter : A Trivia Application (Quiz Application)](https://www.youtube.com/watch?v=J3XSlYUhdqs)
+- [Flutter 2.0 - Getting started with Desktop](https://www.youtube.com/watch?v=1a-Hrb3zGdY)
 - [Flutter 2.0 : Getting Started With Web](https://www.youtube.com/watch?v=bi1k4jjCkoY)
 - [Create and Run Appwrite Functions with Dart](https://www.youtube.com/watch?v=WNIeIYz30Bg)
 - [What's new in Appwrite 0.7 🥳 🚀](https://www.youtube.com/watch?v=uuZq3K4Wjrc)
