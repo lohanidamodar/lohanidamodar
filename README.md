@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter Plugins - Flutter Slidable Package](https://www.youtube.com/watch?v=KJQKY5p8cYg)
 - [Appwrite ❤️ Flutter : A Trivia Application (Quiz Application)](https://www.youtube.com/watch?v=J3XSlYUhdqs)
 - [Flutter 2.0 - Getting started with Desktop](https://www.youtube.com/watch?v=1a-Hrb3zGdY)
 - [Flutter 2.0 : Getting Started With Web](https://www.youtube.com/watch?v=bi1k4jjCkoY)
@@ -39,7 +40,6 @@ ___
 - [[2]  @Flutter  HiveDB - Cache API Data Simple](https://www.youtube.com/watch?v=sKMSAf3dECs)
 - [[1] @Flutter HiveDB - HiveDB fundamentals | One time only Welcome Page](https://www.youtube.com/watch?v=CQG-w_7fbdY)
 - [[6] StreamProvider & Family modifier | ​@Flutter State Management Hero](https://www.youtube.com/watch?v=ZWRiH-iBVm8)
-- [10 Awesome VS Code Extensions for Everyone | Enhance Your Workflow |  ReactBits](https://www.youtube.com/watch?v=OsiVsBW3d0k)
 <!-- YOUTUBE:END -->
 
 ---
