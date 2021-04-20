@@ -32,6 +32,7 @@ ___
 <!-- YOUTUBE:START -->
 - [[1] Flutter + Appwrite Starter Application Template](https://www.youtube.com/watch?v=ECtoXQ50Ar0)
 - [Flutter Plugins - Flutter Slidable Package](https://www.youtube.com/watch?v=KJQKY5p8cYg)
+- [[2] Flutter + Appwrite Starter Application Template](https://www.youtube.com/watch?v=W_PH5tHbhhM)
 - [Appwrite ❤️ Flutter : A Trivia Application (Quiz Application)](https://www.youtube.com/watch?v=J3XSlYUhdqs)
 - [Flutter 2.0 - Getting started with Desktop](https://www.youtube.com/watch?v=1a-Hrb3zGdY)
 - [Flutter 2.0 : Getting Started With Web](https://www.youtube.com/watch?v=bi1k4jjCkoY)
@@ -39,7 +40,6 @@ ___
 - [What's new in Appwrite 0.7 🥳 🚀](https://www.youtube.com/watch?v=uuZq3K4Wjrc)
 - [[3] @Flutter HiveDB - User favorites/bookmarks in HiveDB](https://www.youtube.com/watch?v=N1iIAD7FMXk)
 - [[2]  @Flutter  HiveDB - Cache API Data Simple](https://www.youtube.com/watch?v=sKMSAf3dECs)
-- [[1] @Flutter HiveDB - HiveDB fundamentals | One time only Welcome Page](https://www.youtube.com/watch?v=CQG-w_7fbdY)
 <!-- YOUTUBE:END -->
 
 ---
