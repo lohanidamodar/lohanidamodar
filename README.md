@@ -30,7 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Flutter+Appwrite Gotchas - Common Errors We Might Run Into and Their Solutions](https://www.youtube.com/watch?v=bx8ifcXfMqA)
+- [Flutter+Appwrite Gotchas - Common Issues We Might Run Into and Their Solutions](https://www.youtube.com/watch?v=bx8ifcXfMqA)
 - [[2] Flutter + Appwrite Starter Application Template](https://www.youtube.com/watch?v=W_PH5tHbhhM)
 - [[1] Flutter + Appwrite Starter Application Template](https://www.youtube.com/watch?v=ECtoXQ50Ar0)
 - [Flutter Plugins - Flutter Slidable Package](https://www.youtube.com/watch?v=KJQKY5p8cYg)
