@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[3] Flutter + Appwrite Starter Application Template](https://www.youtube.com/watch?v=UZw4VVpt_ZI)
 - [Flutter+Appwrite Gotchas - Common Issues We Might Run Into and Their Solutions](https://www.youtube.com/watch?v=bx8ifcXfMqA)
 - [[2] Flutter + Appwrite Starter Application Template](https://www.youtube.com/watch?v=W_PH5tHbhhM)
 - [[1] Flutter + Appwrite Starter Application Template](https://www.youtube.com/watch?v=ECtoXQ50Ar0)
@@ -39,7 +40,6 @@ ___
 - [Flutter 2.0 : Getting Started With Web](https://www.youtube.com/watch?v=bi1k4jjCkoY)
 - [Create and Run Appwrite Functions with Dart](https://www.youtube.com/watch?v=WNIeIYz30Bg)
 - [What's new in Appwrite 0.7 🥳 🚀](https://www.youtube.com/watch?v=uuZq3K4Wjrc)
-- [[3] @Flutter HiveDB - User favorites/bookmarks in HiveDB](https://www.youtube.com/watch?v=N1iIAD7FMXk)
 <!-- YOUTUBE:END -->
 
 ---
