@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [2️⃣ #30DaysofAppwrite - Installing Appwrite](https://www.youtube.com/watch?v=jlhXQFFn0oc)
 - [1️⃣ #30DaysofAppwrite - Hello 30 Days of Appwrite](https://www.youtube.com/watch?v=tRJCqyAUv9s)
 - [Bramo - First Impression and Gameplay - #HonestReviews](https://www.youtube.com/watch?v=_TewF42KIyk)
 - [#30DaysOfAppwrite - A Month Long Event to Learn About Appwrite and Win Prizes!](https://www.youtube.com/watch?v=xBJVTkuWUWg)
@@ -39,7 +40,6 @@ ___
 - [[1] Flutter + Appwrite Starter Application Template](https://www.youtube.com/watch?v=ECtoXQ50Ar0)
 - [Flutter Plugins - Flutter Slidable Package](https://www.youtube.com/watch?v=KJQKY5p8cYg)
 - [Appwrite ❤️ Flutter : A Trivia Application (Quiz Application)](https://www.youtube.com/watch?v=J3XSlYUhdqs)
-- [Flutter 2.0 - Getting started with Desktop](https://www.youtube.com/watch?v=1a-Hrb3zGdY)
 <!-- YOUTUBE:END -->
 
 ---
