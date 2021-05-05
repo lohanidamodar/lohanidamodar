@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [5️⃣ #30DaysofAppwrite - Your First Request to Appwrite](https://www.youtube.com/watch?v=Ga_27v3JN-I)
 - [4️⃣ #30DaysofAppwrite - Appwrite's Dashboard](https://www.youtube.com/watch?v=7R89e4pvmIw)
 - [3️⃣ #30DaysofAppwrite - Microservices of Appwrite](https://www.youtube.com/watch?v=n4ht8r_Nf6E)
 - [[4] Flutter+Appwrite: Starter Application Template - Final](https://www.youtube.com/watch?v=h3D40BQ4a2E)
@@ -39,7 +40,6 @@ ___
 - [#30DaysOfAppwrite - A Month Long Event to Learn About Appwrite and Win Prizes!](https://www.youtube.com/watch?v=xBJVTkuWUWg)
 - [[3] Flutter + Appwrite Starter Application Template](https://www.youtube.com/watch?v=UZw4VVpt_ZI)
 - [Flutter+Appwrite Gotchas - Common Issues We Might Run Into and Their Solutions](https://www.youtube.com/watch?v=bx8ifcXfMqA)
-- [[2] Flutter + Appwrite Starter Application Template](https://www.youtube.com/watch?v=W_PH5tHbhhM)
 <!-- YOUTUBE:END -->
 
 ---
