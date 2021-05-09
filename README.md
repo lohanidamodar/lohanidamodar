@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [9️⃣ #30DaysofAppwrite - Authentication with Appwrite](https://www.youtube.com/watch?v=EjQK1EtDrgI)
 - [8️⃣ #30DaysofAppwrite - Accounts & Users Service for User Management](https://www.youtube.com/watch?v=QVjF80ceN5s)
 - [7️⃣ #30DaysofAppwrite - Server Side SDKs](https://www.youtube.com/watch?v=IinLFUvQTro)
 - [6️⃣ #30DaysofAppwrite - Appwrite's SSL Certificate](https://www.youtube.com/watch?v=heyx0GVQv7I)
@@ -39,7 +40,6 @@ ___
 - [[4] Flutter+Appwrite: Starter Application Template - Final](https://www.youtube.com/watch?v=h3D40BQ4a2E)
 - [2️⃣ #30DaysofAppwrite - Installing Appwrite](https://www.youtube.com/watch?v=jlhXQFFn0oc)
 - [1️⃣ #30DaysofAppwrite - Hello 30 Days of Appwrite](https://www.youtube.com/watch?v=tRJCqyAUv9s)
-- [Bramo - First Impression and Gameplay - #HonestReviews](https://www.youtube.com/watch?v=_TewF42KIyk)
 <!-- YOUTUBE:END -->
 
 ---
