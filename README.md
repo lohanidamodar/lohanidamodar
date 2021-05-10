@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [1️⃣0️⃣ #30DaysofAppwrite - Social Authentication with OAuth Providers](https://www.youtube.com/watch?v=Uds1dTdq2_s)
 - [9️⃣ #30DaysofAppwrite - Authentication with Appwrite](https://www.youtube.com/watch?v=EjQK1EtDrgI)
 - [8️⃣ #30DaysofAppwrite - Accounts & Users Service for User Management](https://www.youtube.com/watch?v=QVjF80ceN5s)
 - [7️⃣ #30DaysofAppwrite - Server Side SDKs](https://www.youtube.com/watch?v=IinLFUvQTro)
@@ -39,7 +40,6 @@ ___
 - [3️⃣ #30DaysofAppwrite - Microservices of Appwrite](https://www.youtube.com/watch?v=n4ht8r_Nf6E)
 - [[4] Flutter+Appwrite: Starter Application Template - Final](https://www.youtube.com/watch?v=h3D40BQ4a2E)
 - [2️⃣ #30DaysofAppwrite - Installing Appwrite](https://www.youtube.com/watch?v=jlhXQFFn0oc)
-- [1️⃣ #30DaysofAppwrite - Hello 30 Days of Appwrite](https://www.youtube.com/watch?v=tRJCqyAUv9s)
 <!-- YOUTUBE:END -->
 
 ---
