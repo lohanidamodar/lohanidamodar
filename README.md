@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [1️⃣2️⃣ #30DaysofAppwrite - Email Verification](https://www.youtube.com/watch?v=rp6KcMVWCAE)
 - [1️⃣1️⃣ #30DaysofAppwrite - SMTP Service Setup](https://www.youtube.com/watch?v=_3K_D1fqaeo)
 - [1️⃣0️⃣ #30DaysofAppwrite - Social Authentication with OAuth Providers](https://www.youtube.com/watch?v=Uds1dTdq2_s)
 - [9️⃣ #30DaysofAppwrite - Authentication with Appwrite](https://www.youtube.com/watch?v=EjQK1EtDrgI)
@@ -39,7 +40,6 @@ ___
 - [5️⃣ #30DaysofAppwrite - Your First Request to Appwrite](https://www.youtube.com/watch?v=Ga_27v3JN-I)
 - [4️⃣ #30DaysofAppwrite - Appwrite's Dashboard](https://www.youtube.com/watch?v=7R89e4pvmIw)
 - [3️⃣ #30DaysofAppwrite - Microservices of Appwrite](https://www.youtube.com/watch?v=n4ht8r_Nf6E)
-- [[4] Flutter+Appwrite: Starter Application Template - Final](https://www.youtube.com/watch?v=h3D40BQ4a2E)
 <!-- YOUTUBE:END -->
 
 ---
