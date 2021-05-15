@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [1️⃣5️⃣ #30DaysofAppwrite - Introduction to Appwrite's database](https://www.youtube.com/watch?v=P34miZwVs5s)
 - [1️⃣4️⃣ #30DaysofAppwrite - Let's see Teams API in action](https://www.youtube.com/watch?v=ebjGU1h0jZg)
 - [1️⃣3️⃣ #30DaysofAppwrite - Understanding Teams and Roles in Appwrite](https://www.youtube.com/watch?v=LmNazB8QKjY)
 - [1️⃣2️⃣ #30DaysofAppwrite - Email Verification](https://www.youtube.com/watch?v=rp6KcMVWCAE)
@@ -39,7 +40,6 @@ ___
 - [8️⃣ #30DaysofAppwrite - Accounts & Users Service for User Management](https://www.youtube.com/watch?v=QVjF80ceN5s)
 - [7️⃣ #30DaysofAppwrite - Server Side SDKs](https://www.youtube.com/watch?v=IinLFUvQTro)
 - [6️⃣ #30DaysofAppwrite - Appwrite's SSL Certificate](https://www.youtube.com/watch?v=heyx0GVQv7I)
-- [5️⃣ #30DaysofAppwrite - Your First Request to Appwrite](https://www.youtube.com/watch?v=Ga_27v3JN-I)
 <!-- YOUTUBE:END -->
 
 ---
