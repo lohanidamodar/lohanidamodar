@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [1️⃣6️⃣ #30DaysofAppwrite - Let's Setup Database for Out App using Dart Script](https://www.youtube.com/watch?v=7l4c89xrmnA)
 - [1️⃣5️⃣ #30DaysofAppwrite - Introduction to Appwrite's database](https://www.youtube.com/watch?v=P34miZwVs5s)
 - [1️⃣4️⃣ #30DaysofAppwrite - Let's see Teams API in action](https://www.youtube.com/watch?v=ebjGU1h0jZg)
 - [1️⃣3️⃣ #30DaysofAppwrite - Understanding Teams and Roles in Appwrite](https://www.youtube.com/watch?v=LmNazB8QKjY)
@@ -39,7 +40,6 @@ ___
 - [9️⃣ #30DaysofAppwrite - Authentication with Appwrite](https://www.youtube.com/watch?v=EjQK1EtDrgI)
 - [8️⃣ #30DaysofAppwrite - Accounts & Users Service for User Management](https://www.youtube.com/watch?v=QVjF80ceN5s)
 - [7️⃣ #30DaysofAppwrite - Server Side SDKs](https://www.youtube.com/watch?v=IinLFUvQTro)
-- [6️⃣ #30DaysofAppwrite - Appwrite's SSL Certificate](https://www.youtube.com/watch?v=heyx0GVQv7I)
 <!-- YOUTUBE:END -->
 
 ---
