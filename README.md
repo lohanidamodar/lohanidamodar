@@ -30,7 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Fireside Chat with Damodar - Appwrite 0.8](https://www.youtube.com/watch?v=AlxWrpAhOl8)
+- [Fireside Chat with Damodar - Appwrite 0.8, Flutter 2.2](https://www.youtube.com/watch?v=AlxWrpAhOl8)
 - [1️⃣9️⃣ #30DaysofAppwrite - Introduction to Appwrite's Storage](https://www.youtube.com/watch?v=Axb5RTEUOqA)
 - [1️⃣8️⃣ #30DaysofAppwrite - Database Paging and Filtering](https://www.youtube.com/watch?v=DbIOMYDqzMA)
 - [1️⃣7️⃣ #30DaysofAppwrite - Let's Add and Read Data using Appwrite's Database](https://www.youtube.com/watch?v=SY_Ua_gQocY)
