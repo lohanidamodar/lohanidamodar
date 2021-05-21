@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Fireside Chat with Damodar - Appwrite 0.8, Flutter 2.2](https://www.youtube.com/watch?v=AlxWrpAhOl8)
 - [2️⃣0️⃣ #30DaysofAppwrite : Storage API in Action](https://www.youtube.com/watch?v=6k7yguBj7e8)
 - [1️⃣9️⃣ #30DaysofAppwrite - Introduction to Appwrite's Storage](https://www.youtube.com/watch?v=Axb5RTEUOqA)
 - [1️⃣8️⃣ #30DaysofAppwrite - Database Paging and Filtering](https://www.youtube.com/watch?v=DbIOMYDqzMA)
@@ -39,7 +40,6 @@ ___
 - [1️⃣4️⃣ #30DaysofAppwrite - Let's see Teams API in action](https://www.youtube.com/watch?v=ebjGU1h0jZg)
 - [1️⃣3️⃣ #30DaysofAppwrite - Understanding Teams and Roles in Appwrite](https://www.youtube.com/watch?v=LmNazB8QKjY)
 - [1️⃣2️⃣ #30DaysofAppwrite - Email Verification](https://www.youtube.com/watch?v=rp6KcMVWCAE)
-- [1️⃣1️⃣ #30DaysofAppwrite - SMTP Service Setup](https://www.youtube.com/watch?v=_3K_D1fqaeo)
 <!-- YOUTUBE:END -->
 
 ---
