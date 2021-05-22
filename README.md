@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [2️⃣2️⃣ #30DaysofAppwrite : Appwrite's Awesome CLI](https://www.youtube.com/watch?v=fHEjHQccsPQ)
 - [2️⃣1️⃣ #30DaysofAppwrite : Appwrite's Avatars API - Useful but often Overlooked](https://www.youtube.com/watch?v=GNhDSbMmXhU)
 - [Fireside Chat with Damodar - Appwrite 0.8, Flutter 2.2](https://www.youtube.com/watch?v=AlxWrpAhOl8)
 - [2️⃣0️⃣ #30DaysofAppwrite : Storage API in Action](https://www.youtube.com/watch?v=6k7yguBj7e8)
@@ -39,7 +40,6 @@ ___
 - [1️⃣6️⃣ #30DaysofAppwrite - Let's Setup Database for Out App using Dart Script](https://www.youtube.com/watch?v=7l4c89xrmnA)
 - [1️⃣5️⃣ #30DaysofAppwrite - Introduction to Appwrite's database](https://www.youtube.com/watch?v=P34miZwVs5s)
 - [1️⃣4️⃣ #30DaysofAppwrite - Let's see Teams API in action](https://www.youtube.com/watch?v=ebjGU1h0jZg)
-- [1️⃣3️⃣ #30DaysofAppwrite - Understanding Teams and Roles in Appwrite](https://www.youtube.com/watch?v=LmNazB8QKjY)
 <!-- YOUTUBE:END -->
 
 ---
