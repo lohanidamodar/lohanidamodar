@@ -30,8 +30,9 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [2️⃣7️⃣ #30DaysofAppwrite : Appwrite in Production](https://www.youtube.com/watch?v=guu0GR_4F5w)
 - [2️⃣6️⃣ #30DaysofAppwrite : JWT in Appwrite](https://www.youtube.com/watch?v=8T4FNFfKbR0)
-- [2️⃣4️⃣ #30DaysofAppwrite : Cloud Function to Send Email](https://www.youtube.com/watch?v=Tn2bgNh8vTc)
+- [2️⃣5️⃣ #30DaysofAppwrite : Cloud Function to Send Email](https://www.youtube.com/watch?v=Tn2bgNh8vTc)
 - [2️⃣4️⃣ #30DaysofAppwrite : First Cloud Function using Dart](https://www.youtube.com/watch?v=Msv9TpE4C3w)
 - [2️⃣3️⃣ #30DaysofAppwrite : Introduction to Appwrite's Cloud Function](https://www.youtube.com/watch?v=LUSi7r94Ak8)
 - [2️⃣2️⃣ #30DaysofAppwrite : Appwrite's Awesome CLI](https://www.youtube.com/watch?v=fHEjHQccsPQ)
@@ -39,7 +40,6 @@ ___
 - [Fireside Chat with Damodar - Appwrite 0.8, Flutter 2.2](https://www.youtube.com/watch?v=AlxWrpAhOl8)
 - [2️⃣0️⃣ #30DaysofAppwrite : Storage API in Action](https://www.youtube.com/watch?v=6k7yguBj7e8)
 - [1️⃣9️⃣ #30DaysofAppwrite - Introduction to Appwrite's Storage](https://www.youtube.com/watch?v=Axb5RTEUOqA)
-- [1️⃣8️⃣ #30DaysofAppwrite - Database Paging and Filtering](https://www.youtube.com/watch?v=DbIOMYDqzMA)
 <!-- YOUTUBE:END -->
 
 ---
