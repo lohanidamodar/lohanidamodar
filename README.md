@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [3️⃣0️⃣ #30DaysofAppwrite : We Made It - Thank You](https://www.youtube.com/watch?v=cAl7KJwAM98)
 - [2️⃣9️⃣ #30DaysofAppwrite : Contributing to Appwrite and Open Source](https://www.youtube.com/watch?v=3yC34nxqzRo)
 - [2️⃣8️⃣ #30DaysofAppwrite : Making Flutter+Appwrite Authentication Easy](https://www.youtube.com/watch?v=bqh8qjNCHno)
 - [2️⃣7️⃣ #30DaysofAppwrite : Appwrite in Production](https://www.youtube.com/watch?v=guu0GR_4F5w)
@@ -39,7 +40,6 @@ ___
 - [2️⃣3️⃣ #30DaysofAppwrite : Introduction to Appwrite's Cloud Function](https://www.youtube.com/watch?v=LUSi7r94Ak8)
 - [2️⃣2️⃣ #30DaysofAppwrite : Appwrite's Awesome CLI](https://www.youtube.com/watch?v=fHEjHQccsPQ)
 - [2️⃣1️⃣ #30DaysofAppwrite : Appwrite's Avatars API - Useful but often Overlooked](https://www.youtube.com/watch?v=GNhDSbMmXhU)
-- [Fireside Chat with Damodar - Appwrite 0.8, Flutter 2.2](https://www.youtube.com/watch?v=AlxWrpAhOl8)
 <!-- YOUTUBE:END -->
 
 ---
