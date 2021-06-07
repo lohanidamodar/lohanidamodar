@@ -30,6 +30,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter - Let's Upgrade our Calendar App - Table Calendar and FlutterFire](https://www.youtube.com/watch?v=Tnjex6C94qc)
 - [3️⃣0️⃣ #30DaysofAppwrite : We Made It - Thank You](https://www.youtube.com/watch?v=cAl7KJwAM98)
 - [2️⃣9️⃣ #30DaysofAppwrite : Contributing to Appwrite and Open Source](https://www.youtube.com/watch?v=3yC34nxqzRo)
 - [2️⃣8️⃣ #30DaysofAppwrite : Making Flutter+Appwrite Authentication Easy](https://www.youtube.com/watch?v=bqh8qjNCHno)
@@ -39,7 +40,6 @@ ___
 - [2️⃣4️⃣ #30DaysofAppwrite : First Cloud Function using Dart](https://www.youtube.com/watch?v=Msv9TpE4C3w)
 - [2️⃣3️⃣ #30DaysofAppwrite : Introduction to Appwrite's Cloud Function](https://www.youtube.com/watch?v=LUSi7r94Ak8)
 - [2️⃣2️⃣ #30DaysofAppwrite : Appwrite's Awesome CLI](https://www.youtube.com/watch?v=fHEjHQccsPQ)
-- [2️⃣1️⃣ #30DaysofAppwrite : Appwrite's Avatars API - Useful but often Overlooked](https://www.youtube.com/watch?v=GNhDSbMmXhU)
 <!-- YOUTUBE:END -->
 
 ---
