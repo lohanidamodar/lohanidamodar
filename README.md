@@ -46,16 +46,14 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [#30DaysofAppwrite : File Uploads and Downloads](https://dev.to/appwrite/30daysofappwrite-file-uploads-and-downloads-1dld)
-- [#30DaysofAppwrite : Appwrite Storage API](https://dev.to/appwrite/30daysofappwrite-appwrite-storage-api-hgm)
-- [#30DaysofAppwrite : Database Design 🧐](https://dev.to/appwrite/30daysofappwrite-database-design-140a)
-- [#30DaysofAppwrite : OAuth Providers](https://dev.to/appwrite/30daysofappwrite-oauth-providers-3jf6)
-- [#30DaysofAppwrite : Login and Signup](https://dev.to/appwrite/30daysofappwrite-login-and-signup-2957)
-- [#30DaysofAppwrite : Your First Request](https://dev.to/appwrite/30daysofappwrite-your-first-request-4oco)
-- [#30DaysofAppwrite : Installation](https://dev.to/appwrite/installing-appwrite-366o)
-- [Flutter Appwrite Starter Template](https://dev.to/lohanidamodar/flutter-appwrite-starter-template-bbe)
-- [Introducing Sound Null Safety Support for Appwrite Flutter and Dart SDKs](https://dev.to/appwrite/introducing-sound-null-safety-support-for-appwrite-flutter-and-dart-sdks-2mhc)
-- [Let's Build a Quiz Application](https://dev.to/lohanidamodar/let-s-build-a-quiz-application-h1l)
+- [Flutter Appwrite Tutorial Series — (ongoing)](https://lohanidamodar.medium.com/flutter-appwrite-tutorial-series-ongoing-72ef3d5bb8ba?source=rss-21afa4abace7------2)
+- [Flutter URL Preview](https://lohanidamodar.medium.com/flutter-url-preview-a386920bdfe6?source=rss-21afa4abace7------2)
+- [Flutter Recipes 2 — Firebase Firestore Recipes](https://lohanidamodar.medium.com/flutter-recipes-2-firebase-firestore-recipes-2f09e58a7298?source=rss-21afa4abace7------2)
+- [Most common misconception among beginner Mobile App Developers](https://lohanidamodar.medium.com/most-common-misconception-among-beginner-mobile-app-developers-6309b08f36a7?source=rss-21afa4abace7------2)
+- [Flutter Recipes 1 : ListView recipes](https://lohanidamodar.medium.com/flutter-recipes-1-listview-recipes-e604f63460bd?source=rss-21afa4abace7------2)
+- [Date And Time Pickers in Flutter without using Any Packages](https://lohanidamodar.medium.com/date-and-time-pickers-in-flutter-without-using-any-packages-1de04a13938c?source=rss-21afa4abace7------2)
+- [Prepare Your Flutter App to Publish to Google Play Store (easiest way)](https://lohanidamodar.medium.com/prepare-your-flutter-app-to-publish-to-google-play-store-easiest-way-fb2efbff8b22?source=rss-21afa4abace7------2)
+- [Top 7 YouTube channels I follow for Flutter tutorials](https://lohanidamodar.medium.com/top-7-youtube-channels-i-follow-for-flutter-tutorials-b7035968a9ad?source=rss-21afa4abace7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
