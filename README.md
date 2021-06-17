@@ -46,6 +46,7 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn How to Run Appwrite With Your Own Custom Proxy or Load Balancer](https://dev.to/appwrite/learn-how-to-run-appwrite-with-your-own-custom-proxy-or-load-balancer-28k)
 - [#30DaysofAppwrite : File Uploads and Downloads](https://dev.to/appwrite/30daysofappwrite-file-uploads-and-downloads-1dld)
 - [#30DaysofAppwrite : Appwrite Storage API](https://dev.to/appwrite/30daysofappwrite-appwrite-storage-api-hgm)
 - [#30DaysofAppwrite : Database Design 🧐](https://dev.to/appwrite/30daysofappwrite-database-design-140a)
@@ -55,7 +56,6 @@ ___
 - [#30DaysofAppwrite : Installation](https://dev.to/appwrite/installing-appwrite-366o)
 - [Flutter Appwrite Starter Template](https://dev.to/lohanidamodar/flutter-appwrite-starter-template-bbe)
 - [Introducing Sound Null Safety Support for Appwrite Flutter and Dart SDKs](https://dev.to/appwrite/introducing-sound-null-safety-support-for-appwrite-flutter-and-dart-sdks-2mhc)
-- [Let's Build a Quiz Application](https://dev.to/lohanidamodar/let-s-build-a-quiz-application-h1l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
