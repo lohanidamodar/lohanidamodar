@@ -46,6 +46,7 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Gravity Support in Image Previews | Appwrite](https://dev.to/appwrite/new-gravity-support-in-image-previews-appwrite-442j)
 - [Let's build an Android Quiz Application with Appwrite](https://dev.to/appwrite/let-s-build-an-android-quiz-application-with-appwrite-3kn1)
 - [Appwrite Image Previews Receive Massive New Updates](https://dev.to/appwrite/appwrite-image-previews-receive-massive-new-updates-2edo)
 - [Learn How to Run Appwrite With Your Own Custom Proxy or Load Balancer](https://dev.to/appwrite/learn-how-to-run-appwrite-with-your-own-custom-proxy-or-load-balancer-28k)
@@ -55,7 +56,6 @@ ___
 - [#30DaysofAppwrite : OAuth Providers](https://dev.to/appwrite/30daysofappwrite-oauth-providers-3jf6)
 - [#30DaysofAppwrite : Login and Signup](https://dev.to/appwrite/30daysofappwrite-login-and-signup-2957)
 - [#30DaysofAppwrite : Your First Request](https://dev.to/appwrite/30daysofappwrite-your-first-request-4oco)
-- [#30DaysofAppwrite : Installation](https://dev.to/appwrite/installing-appwrite-366o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
