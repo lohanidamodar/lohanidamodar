@@ -2,12 +2,9 @@
 
 I'm a Web and Mobile engineer and Tech Consultant. Currently working as a Software Engineer at [Appwrite.io](https://appwrite.io)
 
-- 🔭 I’m currently working on Multiple Projects
-- 🌱 I’m currently learning 3d Designing and Game development
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently working on [Appwrite](https://github.com/lohanidamodar/appwrite)
 - 👯 I’m looking to collaborate on Projects for Nepali Market
 - 💬 Ask me about Technology, Tech career in Nepal, Flutter and Dart
-- ⚡ Fun fact: I watch a lots of Movies specially Sc-Fi and Fantasy
 
 ### Tech Stack
 <img src="assets/tech.svg" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" /> <br /><br />
