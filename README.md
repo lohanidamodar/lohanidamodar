@@ -2,7 +2,7 @@
 
 I'm a Web and Mobile engineer and Tech Consultant. Currently working as a Software Engineer at [Appwrite.io](https://appwrite.io)
 
-- 🔭 I’m currently working on [Appwrite](https://github.com/lohanidamodar/appwrite)
+- 🔭 I’m currently working on [Appwrite](https://github.com/appwrite/appwrite)
 - 👯 I’m looking to collaborate on Projects for Nepali Market
 - 💬 Ask me about Technology, Tech career in Nepal, Flutter and Dart
 
