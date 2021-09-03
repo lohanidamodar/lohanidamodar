@@ -43,6 +43,7 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Appwrite Realtime for Web Developers](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-web-developers-45o6)
 - [New Gravity Support in Image Previews | Appwrite](https://dev.to/appwrite/new-gravity-support-in-image-previews-appwrite-442j)
 - [Let's build an Android Quiz Application with Appwrite](https://dev.to/appwrite/let-s-build-an-android-quiz-application-with-appwrite-3kn1)
 - [Appwrite Image Previews Receive Massive New Updates](https://dev.to/appwrite/appwrite-image-previews-receive-massive-new-updates-2edo)
@@ -52,7 +53,6 @@ ___
 - [#30DaysofAppwrite : Database Design 🧐](https://dev.to/appwrite/30daysofappwrite-database-design-140a)
 - [#30DaysofAppwrite : OAuth Providers](https://dev.to/appwrite/30daysofappwrite-oauth-providers-3jf6)
 - [#30DaysofAppwrite : Login and Signup](https://dev.to/appwrite/30daysofappwrite-login-and-signup-2957)
-- [#30DaysofAppwrite : Your First Request](https://dev.to/appwrite/30daysofappwrite-your-first-request-4oco)
 <!-- BLOG-POST-LIST:END -->
 
 ---
