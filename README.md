@@ -43,6 +43,7 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Appwrite Realtime for Flutter](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-flutter-4229)
 - [Getting Started with Appwrite Realtime for Web Developers](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-web-developers-45o6)
 - [New Gravity Support in Image Previews | Appwrite](https://dev.to/appwrite/new-gravity-support-in-image-previews-appwrite-442j)
 - [Let's build an Android Quiz Application with Appwrite](https://dev.to/appwrite/let-s-build-an-android-quiz-application-with-appwrite-3kn1)
@@ -52,7 +53,6 @@ ___
 - [#30DaysofAppwrite : Appwrite Storage API](https://dev.to/appwrite/30daysofappwrite-appwrite-storage-api-hgm)
 - [#30DaysofAppwrite : Database Design 🧐](https://dev.to/appwrite/30daysofappwrite-database-design-140a)
 - [#30DaysofAppwrite : OAuth Providers](https://dev.to/appwrite/30daysofappwrite-oauth-providers-3jf6)
-- [#30DaysofAppwrite : Login and Signup](https://dev.to/appwrite/30daysofappwrite-login-and-signup-2957)
 <!-- BLOG-POST-LIST:END -->
 
 ---
