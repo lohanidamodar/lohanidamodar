@@ -43,6 +43,7 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Magic URL authentication with Flutter + Appwrite](https://dev.to/appwrite/magic-url-authentication-with-flutter-appwrite-349g)
 - [Getting Started with Appwrite Realtime for Flutter](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-flutter-4229)
 - [Getting Started with Appwrite Realtime for Web Developers](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-web-developers-45o6)
 - [New Gravity Support in Image Previews | Appwrite](https://dev.to/appwrite/new-gravity-support-in-image-previews-appwrite-442j)
@@ -52,7 +53,6 @@ ___
 - [#30DaysofAppwrite : File Uploads and Downloads](https://dev.to/appwrite/30daysofappwrite-file-uploads-and-downloads-1dld)
 - [#30DaysofAppwrite : Appwrite Storage API](https://dev.to/appwrite/30daysofappwrite-appwrite-storage-api-hgm)
 - [#30DaysofAppwrite : Database Design 🧐](https://dev.to/appwrite/30daysofappwrite-database-design-140a)
-- [#30DaysofAppwrite : OAuth Providers](https://dev.to/appwrite/30daysofappwrite-oauth-providers-3jf6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
