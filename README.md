@@ -43,6 +43,7 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Version 2.0 of the Flutter SDK for Appwrite!](https://dev.to/appwrite/announcing-version-2-0-of-the-flutter-sdk-for-appwrite-22hg)
 - [Magic URL authentication with Flutter + Appwrite](https://dev.to/appwrite/magic-url-authentication-with-flutter-appwrite-349g)
 - [Getting Started with Appwrite Realtime for Flutter](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-flutter-4229)
 - [Getting Started with Appwrite Realtime for Web Developers](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-web-developers-45o6)
@@ -52,7 +53,6 @@ ___
 - [Learn How to Run Appwrite With Your Own Custom Proxy or Load Balancer](https://dev.to/appwrite/learn-how-to-run-appwrite-with-your-own-custom-proxy-or-load-balancer-28k)
 - [#30DaysofAppwrite : File Uploads and Downloads](https://dev.to/appwrite/30daysofappwrite-file-uploads-and-downloads-1dld)
 - [#30DaysofAppwrite : Appwrite Storage API](https://dev.to/appwrite/30daysofappwrite-appwrite-storage-api-hgm)
-- [#30DaysofAppwrite : Database Design 🧐](https://dev.to/appwrite/30daysofappwrite-database-design-140a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
