@@ -27,6 +27,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Appwrite 0.11 with Swift and Apple Support - Let's get started with Appwrite's Apple SDK](https://www.youtube.com/watch?v=-mlG88xLQwk)
 - [Appwrite 0.10 and Getting started with Realtime Service for Flutter developers](https://www.youtube.com/watch?v=TFMC5542wjQ)
 - [Flutter - Firebase Integration from Scratch with Latest Stable Plugins - Firebase Auth and Firestore](https://www.youtube.com/watch?v=8SziUbsU6iU)
 - [Flutter - Let's Upgrade our Calendar App - Table Calendar and FlutterFire](https://www.youtube.com/watch?v=Tnjex6C94qc)
@@ -36,7 +37,6 @@ ___
 - [2️⃣7️⃣ #30DaysofAppwrite : Appwrite in Production](https://www.youtube.com/watch?v=guu0GR_4F5w)
 - [2️⃣6️⃣ #30DaysofAppwrite : JWT in Appwrite](https://www.youtube.com/watch?v=8T4FNFfKbR0)
 - [2️⃣5️⃣ #30DaysofAppwrite : Cloud Function to Send Email](https://www.youtube.com/watch?v=Tn2bgNh8vTc)
-- [2️⃣4️⃣ #30DaysofAppwrite : First Cloud Function using Dart](https://www.youtube.com/watch?v=Msv9TpE4C3w)
 <!-- YOUTUBE:END -->
 
 ---
