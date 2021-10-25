@@ -43,6 +43,7 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Sign In With Appwrite](https://dev.to/appwrite/apple-sign-in-with-appwrite-2576)
 - [Clean Your Storage Using Appwrite's Swift Cloud Functions](https://dev.to/appwrite/clean-your-storage-using-appwrites-swift-cloud-functions-1h4f)
 - [Let's Build A Job Portal With iOS](https://dev.to/appwrite/lets-build-a-job-portal-with-ios-50in)
 - [Announcing Version 2.0 of the Flutter SDK for Appwrite!](https://dev.to/appwrite/announcing-version-2-0-of-the-flutter-sdk-for-appwrite-22hg)
@@ -52,7 +53,6 @@ ___
 - [New Gravity Support in Image Previews | Appwrite](https://dev.to/appwrite/new-gravity-support-in-image-previews-appwrite-442j)
 - [Let's build an Android Quiz Application with Appwrite](https://dev.to/appwrite/let-s-build-an-android-quiz-application-with-appwrite-3kn1)
 - [Appwrite Image Previews Receive Massive New Updates](https://dev.to/appwrite/appwrite-image-previews-receive-massive-new-updates-2edo)
-- [Learn How to Run Appwrite With Your Own Custom Proxy or Load Balancer](https://dev.to/appwrite/learn-how-to-run-appwrite-with-your-own-custom-proxy-or-load-balancer-28k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
