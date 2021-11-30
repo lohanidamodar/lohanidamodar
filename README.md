@@ -1,4 +1,4 @@
-# Namaste, Damodar Lohani Here! 👋
+# Namaste, Damodar Lohani Here from Nepal! 👋
 
 I'm a Web and Mobile engineer and Tech Consultant. Currently working as a Software Engineer at [Appwrite.io](https://appwrite.io)
 
