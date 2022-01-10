@@ -43,6 +43,7 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are Appwrite&#39;s new custom IDs ?](https://dev.to/appwrite/what-are-appwrites-new-custom-ids--5g6a)
 - [Announcing Appwrite Dart SDK 2.0](https://dev.to/appwrite/announcing-appwrite-dart-sdk-20-50a1)
 - [Apple Sign In With Appwrite](https://dev.to/appwrite/apple-sign-in-with-appwrite-2576)
 - [Clean Your Storage Using Appwrite&#39;s Swift Cloud Functions](https://dev.to/appwrite/clean-your-storage-using-appwrites-swift-cloud-functions-1h4f)
@@ -52,7 +53,6 @@ ___
 - [Magic URL authentication with Flutter + Appwrite](https://dev.to/appwrite/magic-url-authentication-with-flutter-appwrite-349g)
 - [Getting Started with Appwrite Realtime for Flutter](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-flutter-4229)
 - [Getting Started with Appwrite Realtime for Web Developers](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-web-developers-45o6)
-- [New Gravity Support in Image Previews | Appwrite](https://dev.to/appwrite/new-gravity-support-in-image-previews-appwrite-442j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
