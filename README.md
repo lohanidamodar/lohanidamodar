@@ -43,6 +43,7 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with database indexes &lpar; the right way &rpar;](https://dev.to/appwrite/working-with-database-indexes-the-right-way--4agp)
 - [What are Appwrite&#39;s new custom IDs ?](https://dev.to/appwrite/what-are-appwrites-new-custom-ids--5g6a)
 - [Announcing Appwrite Dart SDK 2.0](https://dev.to/appwrite/announcing-appwrite-dart-sdk-20-50a1)
 - [Apple Sign In With Appwrite](https://dev.to/appwrite/apple-sign-in-with-appwrite-2576)
@@ -52,7 +53,6 @@ ___
 - [Announcing Version 2.0 of the Flutter SDK for Appwrite!](https://dev.to/appwrite/announcing-version-2-0-of-the-flutter-sdk-for-appwrite-22hg)
 - [Magic URL authentication with Flutter + Appwrite](https://dev.to/appwrite/magic-url-authentication-with-flutter-appwrite-349g)
 - [Getting Started with Appwrite Realtime for Flutter](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-flutter-4229)
-- [Getting Started with Appwrite Realtime for Web Developers](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-web-developers-45o6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
