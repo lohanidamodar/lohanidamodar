@@ -43,16 +43,16 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with database indexes &lpar; the right way &rpar;](https://dev.to/appwrite/working-with-database-indexes-the-right-way--4agp)
+- [What are Appwrite&#39;s new custom IDs ?](https://dev.to/appwrite/what-are-appwrites-new-custom-ids--5g6a)
+- [Announcing Appwrite Dart SDK 2.0](https://dev.to/appwrite/announcing-appwrite-dart-sdk-20-50a1)
+- [Apple Sign In With Appwrite](https://dev.to/appwrite/apple-sign-in-with-appwrite-2576)
+- [Clean Your Storage Using Appwrite&#39;s Swift Cloud Functions](https://dev.to/appwrite/clean-your-storage-using-appwrites-swift-cloud-functions-1h4f)
+- [Let&#39;s Build A Job Portal With iOS](https://dev.to/appwrite/lets-build-a-job-portal-with-ios-50in)
 - [Let’s Build a Job Portal with iOS](https://lohanidamodar.medium.com/lets-build-a-job-portal-with-ios-385818b61386?source=rss-21afa4abace7------2)
-- [Flutter Appwrite Tutorial Series — &lpar;ongoing&rpar;](https://lohanidamodar.medium.com/flutter-appwrite-tutorial-series-ongoing-72ef3d5bb8ba?source=rss-21afa4abace7------2)
-- [Flutter URL Preview](https://lohanidamodar.medium.com/flutter-url-preview-a386920bdfe6?source=rss-21afa4abace7------2)
-- [Flutter Recipes 2 — Firebase Firestore Recipes](https://lohanidamodar.medium.com/flutter-recipes-2-firebase-firestore-recipes-2f09e58a7298?source=rss-21afa4abace7------2)
-- [Most common misconception among beginner Mobile App Developers](https://lohanidamodar.medium.com/most-common-misconception-among-beginner-mobile-app-developers-6309b08f36a7?source=rss-21afa4abace7------2)
-- [Flutter Recipes 1 : ListView recipes](https://lohanidamodar.medium.com/flutter-recipes-1-listview-recipes-e604f63460bd?source=rss-21afa4abace7------2)
-- [Date And Time Pickers in Flutter without using Any Packages](https://lohanidamodar.medium.com/date-and-time-pickers-in-flutter-without-using-any-packages-1de04a13938c?source=rss-21afa4abace7------2)
-- [Prepare Your Flutter App to Publish to Google Play Store &lpar;easiest way&rpar;](https://lohanidamodar.medium.com/prepare-your-flutter-app-to-publish-to-google-play-store-easiest-way-fb2efbff8b22?source=rss-21afa4abace7------2)
-- [Top 7 YouTube channels I follow for Flutter tutorials](https://lohanidamodar.medium.com/top-7-youtube-channels-i-follow-for-flutter-tutorials-b7035968a9ad?source=rss-21afa4abace7------2)
-- [Flutter UI Challenges App — A case Study](https://lohanidamodar.medium.com/flutter-ui-challenges-app-a-case-study-fa579fb8a3fe?source=rss-21afa4abace7------2)
+- [Announcing Version 2.0 of the Flutter SDK for Appwrite!](https://dev.to/appwrite/announcing-version-2-0-of-the-flutter-sdk-for-appwrite-22hg)
+- [Magic URL authentication with Flutter + Appwrite](https://dev.to/appwrite/magic-url-authentication-with-flutter-appwrite-349g)
+- [Getting Started with Appwrite Realtime for Flutter](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-flutter-4229)
 <!-- BLOG-POST-LIST:END -->
 
 ---
