@@ -49,10 +49,10 @@ ___
 - [Apple Sign In With Appwrite](https://dev.to/appwrite/apple-sign-in-with-appwrite-2576)
 - [Clean Your Storage Using Appwrite&#39;s Swift Cloud Functions](https://dev.to/appwrite/clean-your-storage-using-appwrites-swift-cloud-functions-1h4f)
 - [Let&#39;s Build A Job Portal With iOS](https://dev.to/appwrite/lets-build-a-job-portal-with-ios-50in)
-- [Let’s Build a Job Portal with iOS](https://lohanidamodar.medium.com/lets-build-a-job-portal-with-ios-385818b61386?source=rss-21afa4abace7------2)
 - [Announcing Version 2.0 of the Flutter SDK for Appwrite!](https://dev.to/appwrite/announcing-version-2-0-of-the-flutter-sdk-for-appwrite-22hg)
 - [Magic URL authentication with Flutter + Appwrite](https://dev.to/appwrite/magic-url-authentication-with-flutter-appwrite-349g)
 - [Getting Started with Appwrite Realtime for Flutter](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-flutter-4229)
+- [Getting Started with Appwrite Realtime for Web Developers](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-web-developers-45o6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
