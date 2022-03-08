@@ -43,6 +43,7 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Efficiently Handling Large Files Upload and Download](https://dev.to/appwrite/efficiently-handling-large-files-upload-and-download-5eg1)
 - [Working with database indexes &lpar; the right way &rpar;](https://dev.to/appwrite/working-with-database-indexes-the-right-way--4agp)
 - [What are Appwrite&#39;s new custom IDs ?](https://dev.to/appwrite/what-are-appwrites-new-custom-ids--5g6a)
 - [Announcing Appwrite Dart SDK 2.0](https://dev.to/appwrite/announcing-appwrite-dart-sdk-20-50a1)
@@ -52,7 +53,6 @@ ___
 - [Let’s Build a Job Portal with iOS](https://lohanidamodar.medium.com/lets-build-a-job-portal-with-ios-385818b61386?source=rss-21afa4abace7------2)
 - [Announcing Version 2.0 of the Flutter SDK for Appwrite!](https://dev.to/appwrite/announcing-version-2-0-of-the-flutter-sdk-for-appwrite-22hg)
 - [Magic URL authentication with Flutter + Appwrite](https://dev.to/appwrite/magic-url-authentication-with-flutter-appwrite-349g)
-- [Getting Started with Appwrite Realtime for Flutter](https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-flutter-4229)
 <!-- BLOG-POST-LIST:END -->
 
 ---
