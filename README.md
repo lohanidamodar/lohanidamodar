@@ -7,7 +7,7 @@ I'm a Web and Mobile engineer and Tech Consultant. Currently working as a Softwa
 - 💬 Ask me about Technology, Tech career in Nepal, Flutter and Dart
 
 ### Tech Stack
-<img src="assets/tech.svg" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,html,css,swift,php,dart,flutter,appwrite,firebase" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" /> <br /><br />
 ___
 
 **[Me and Flutter](https://github.com/lohanidamodar/lohanidamodar/blob/master/FLUTTER.md)**
