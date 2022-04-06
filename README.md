@@ -43,16 +43,16 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s New in Appwrite&#39;s Storage](https://dev.to/appwrite/whats-new-in-appwrites-storage-30pf)
 - [What’s New in Appwrite’s Storage](https://lohanidamodar.medium.com/whats-new-in-appwrite-s-storage-2fb0273c545b?source=rss-21afa4abace7------2)
-- [Efficiently Handling Large Files Upload and Download](https://dev.to/appwrite/efficiently-handling-large-files-upload-and-download-5eg1)
 - [Efficiently Handling Large Files Upload and Download](https://lohanidamodar.medium.com/efficiently-handling-large-files-upload-and-download-bd5cdfbd09c0?source=rss-21afa4abace7------2)
-- [Working with database indexes &lpar; the right way &rpar;](https://dev.to/appwrite/working-with-database-indexes-the-right-way--4agp)
-- [What are Appwrite&#39;s new custom IDs ?](https://dev.to/appwrite/what-are-appwrites-new-custom-ids--5g6a)
-- [Announcing Appwrite Dart SDK 2.0](https://dev.to/appwrite/announcing-appwrite-dart-sdk-20-50a1)
-- [Apple Sign In With Appwrite](https://dev.to/appwrite/apple-sign-in-with-appwrite-2576)
-- [Clean Your Storage Using Appwrite&#39;s Swift Cloud Functions](https://dev.to/appwrite/clean-your-storage-using-appwrites-swift-cloud-functions-1h4f)
-- [Let&#39;s Build A Job Portal With iOS](https://dev.to/appwrite/lets-build-a-job-portal-with-ios-50in)
+- [Let’s Build a Job Portal with iOS](https://lohanidamodar.medium.com/lets-build-a-job-portal-with-ios-385818b61386?source=rss-21afa4abace7------2)
+- [Flutter Appwrite Tutorial Series — &lpar;ongoing&rpar;](https://lohanidamodar.medium.com/flutter-appwrite-tutorial-series-ongoing-72ef3d5bb8ba?source=rss-21afa4abace7------2)
+- [Flutter URL Preview](https://lohanidamodar.medium.com/flutter-url-preview-a386920bdfe6?source=rss-21afa4abace7------2)
+- [Flutter Recipes 2 — Firebase Firestore Recipes](https://lohanidamodar.medium.com/flutter-recipes-2-firebase-firestore-recipes-2f09e58a7298?source=rss-21afa4abace7------2)
+- [Most common misconception among beginner Mobile App Developers](https://lohanidamodar.medium.com/most-common-misconception-among-beginner-mobile-app-developers-6309b08f36a7?source=rss-21afa4abace7------2)
+- [Flutter Recipes 1 : ListView recipes](https://lohanidamodar.medium.com/flutter-recipes-1-listview-recipes-e604f63460bd?source=rss-21afa4abace7------2)
+- [Date And Time Pickers in Flutter without using Any Packages](https://lohanidamodar.medium.com/date-and-time-pickers-in-flutter-without-using-any-packages-1de04a13938c?source=rss-21afa4abace7------2)
+- [Prepare Your Flutter App to Publish to Google Play Store &lpar;easiest way&rpar;](https://lohanidamodar.medium.com/prepare-your-flutter-app-to-publish-to-google-play-store-easiest-way-fb2efbff8b22?source=rss-21afa4abace7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
