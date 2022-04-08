@@ -44,15 +44,15 @@ ___
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [What&#39;s New in Appwrite&#39;s Storage](https://dev.to/appwrite/whats-new-in-appwrites-storage-30pf)
-- [What’s New in Appwrite’s Storage](https://lohanidamodar.medium.com/whats-new-in-appwrite-s-storage-2fb0273c545b?source=rss-21afa4abace7------2)
 - [Efficiently Handling Large Files Upload and Download](https://dev.to/appwrite/efficiently-handling-large-files-upload-and-download-5eg1)
-- [Efficiently Handling Large Files Upload and Download](https://lohanidamodar.medium.com/efficiently-handling-large-files-upload-and-download-bd5cdfbd09c0?source=rss-21afa4abace7------2)
 - [Working with database indexes &lpar; the right way &rpar;](https://dev.to/appwrite/working-with-database-indexes-the-right-way--4agp)
 - [What are Appwrite&#39;s new custom IDs ?](https://dev.to/appwrite/what-are-appwrites-new-custom-ids--5g6a)
 - [Announcing Appwrite Dart SDK 2.0](https://dev.to/appwrite/announcing-appwrite-dart-sdk-20-50a1)
 - [Apple Sign In With Appwrite](https://dev.to/appwrite/apple-sign-in-with-appwrite-2576)
 - [Clean Your Storage Using Appwrite&#39;s Swift Cloud Functions](https://dev.to/appwrite/clean-your-storage-using-appwrites-swift-cloud-functions-1h4f)
 - [Let&#39;s Build A Job Portal With iOS](https://dev.to/appwrite/lets-build-a-job-portal-with-ios-50in)
+- [Announcing Version 2.0 of the Flutter SDK for Appwrite!](https://dev.to/appwrite/announcing-version-2-0-of-the-flutter-sdk-for-appwrite-22hg)
+- [Magic URL authentication with Flutter + Appwrite](https://dev.to/appwrite/magic-url-authentication-with-flutter-appwrite-349g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
