@@ -43,16 +43,16 @@ ___
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Appwrite Loves Open Source: Why I Chose to Support Provider and Riverpod](https://dev.to/lohanidamodar/appwrite-loves-open-source-why-i-chose-to-support-provider-and-riverpod-16ag)
+- [Appwrite Phone Authentication with Flutter](https://dev.to/appwrite/appwrite-phone-authentication-with-flutter-3jii)
+- [Phone Authentication with Twilio and Appwrite for your Flutter Applications](https://lohanidamodar.medium.com/phone-authentication-with-twilio-and-appwrite-for-your-flutter-applications-434468bb7d85?source=rss-21afa4abace7------2)
+- [Stripe Payment with Flutter and Appwrite](https://dev.to/appwrite/stripe-payment-with-flutter-and-appwrite-2c68)
+- [Appwrite Zoom OAuth Integration](https://dev.to/appwrite/appwrite-zoom-oauth-integration-3gao)
+- [Implementing OAuth on Flutter with Appwrite](https://dev.to/appwrite/appwrite-flutter-implementing-oauth-login-aem)
+- [Social Authentication on Flutter with Appwrite](https://medium.com/appwrite-io/social-authentication-on-flutter-with-appwrite-7639529eb0cc?source=rss-21afa4abace7------2)
 - [What&#39;s New in Appwrite&#39;s Storage](https://dev.to/appwrite/whats-new-in-appwrites-storage-30pf)
 - [What’s New in Appwrite’s Storage](https://lohanidamodar.medium.com/whats-new-in-appwrite-s-storage-2fb0273c545b?source=rss-21afa4abace7------2)
 - [Efficiently Handling Large Files Upload and Download](https://dev.to/appwrite/efficiently-handling-large-files-upload-and-download-5eg1)
-- [Efficiently Handling Large Files Upload and Download](https://lohanidamodar.medium.com/efficiently-handling-large-files-upload-and-download-bd5cdfbd09c0?source=rss-21afa4abace7------2)
-- [Working with database indexes &lpar; the right way &rpar;](https://dev.to/appwrite/working-with-database-indexes-the-right-way--4agp)
-- [What are Appwrite&#39;s new custom IDs ?](https://dev.to/appwrite/what-are-appwrites-new-custom-ids--5g6a)
-- [Announcing Appwrite Dart SDK 2.0](https://dev.to/appwrite/announcing-appwrite-dart-sdk-20-50a1)
-- [Apple Sign In With Appwrite](https://dev.to/appwrite/apple-sign-in-with-appwrite-2576)
-- [Clean Your Storage Using Appwrite&#39;s Swift Cloud Functions](https://dev.to/appwrite/clean-your-storage-using-appwrites-swift-cloud-functions-1h4f)
-- [Let&#39;s Build A Job Portal With iOS](https://dev.to/appwrite/lets-build-a-job-portal-with-ios-50in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
