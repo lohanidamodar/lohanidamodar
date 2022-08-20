@@ -27,6 +27,7 @@ ___
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [I Built Bitly Clone with Redis Express Svelte and Node &lpar; RESN&rpar;](https://www.youtube.com/watch?v=lssFG92i9hA)
 - [[NEW] Create, Deploy and Execute Dart Functions in Appwrite 0.13](https://www.youtube.com/watch?v=w8zZHBDx2qY)
 - [What&#39;s new in Appwrite 0.12?](https://www.youtube.com/watch?v=JGOCD9uMlMk)
 - [A Brief Look at Appwrite&#39;s Upcoming Database Update](https://www.youtube.com/watch?v=hztniBQJuDE)
@@ -36,7 +37,6 @@ ___
 - [Flutter - Let&#39;s Upgrade our Calendar App - Table Calendar and FlutterFire](https://www.youtube.com/watch?v=Tnjex6C94qc)
 - [3️⃣0️⃣ #30DaysofAppwrite : We Made It - Thank You](https://www.youtube.com/watch?v=cAl7KJwAM98)
 - [2️⃣9️⃣ #30DaysofAppwrite : Contributing to Appwrite and Open Source](https://www.youtube.com/watch?v=3yC34nxqzRo)
-- [2️⃣8️⃣ #30DaysofAppwrite : Making Flutter+Appwrite Authentication Easy](https://www.youtube.com/watch?v=bqh8qjNCHno)
 <!-- YOUTUBE:END -->
 
 ---
