@@ -1,6 +1,6 @@
-# Namaste, Damodar Lohani Here from Nepal! 👋
+# Namaste, Damodar Here from Nepal! 👋
 
-I'm an author, mentor, trainer, and tech consultant. Also working as a Software Engineer at [Appwrite.io](https://appwrite.io)
+I'm an author, mentor, trainer, and tech consultant. I'm currently working as a Software Engineer at [Appwrite.io](https://appwrite.io). I'm open for mentoring, training and consultation services.
 
 ## 👷 Check out what I'm currently working on
 
@@ -9,10 +9,6 @@ I'm an author, mentor, trainer, and tech consultant. Also working as a Software 
   - [Clean Nepali Calendar](https://github.com/lohanidamodar/clean_nepali_calendar)
   - [Utopia Dart Framework](https://github.com/utopia-dart)
 
-
-👯 I’m looking to collaborate on Projects for Nepali Market
-
-💬 Ask me about Technology, Tech career in Nepal, Flutter and Dart
 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=js,html,css,swift,php,dart,flutter,appwrite,firebase" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" /> <br /><br />
