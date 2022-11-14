@@ -1,31 +1,31 @@
 # Namaste, Damodar Lohani Here from Nepal! 👋
 
-I'm a Web and Mobile engineer and Tech Consultant. Currently working as a Software Engineer at [Appwrite.io](https://appwrite.io)
+I'm an author, mentor, trainer, and tech consultant. Also working as a Software Engineer at [Appwrite.io](https://appwrite.io)
 
-- 🔭 I’m currently working on [Appwrite](https://github.com/appwrite/appwrite)
-- 👯 I’m looking to collaborate on Projects for Nepali Market
-- 💬 Ask me about Technology, Tech career in Nepal, Flutter and Dart
+## 👷 Check out what I'm currently working on
 
-### Tech Stack
+  - [Appwrite](https://github.com/appwrite/appwrite)
+  - [Appwrite Auth Kit](https://github.com/lohanidamodar/appwrite_auth_kit)
+  - [Clean Nepali Calendar](https://github.com/lohanidamodar/clean_nepali_calendar)
+  - [Utopia Dart Framework](https://github.com/utopia-dart)
+
+
+👯 I’m looking to collaborate on Projects for Nepali Market
+
+💬 Ask me about Technology, Tech career in Nepal, Flutter and Dart
+
+## Tech Stack
 <img src="https://skillicons.dev/icons?i=js,html,css,swift,php,dart,flutter,appwrite,firebase" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" /> <br /><br />
-___
 
-**[Me and Flutter](https://github.com/lohanidamodar/lohanidamodar/blob/master/FLUTTER.md)**
-___
-
-### Connect with me:
+## Connect with me:
 [![website](https://img.shields.io/badge/web-A21432?style=for-the-badge&logo=globe&logoColor=white)](https://dlohani.com.np)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/reactbits)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/arorapranav187/)
 [![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/lohanidamodar)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohanidamodar/)
 
-<br />
-<br />
 
----
-
-### 📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [I Built Bitly Clone with Redis Express Svelte and Node &lpar; RESN&rpar;](https://www.youtube.com/watch?v=lssFG92i9hA)
 - [[NEW] Create, Deploy and Execute Dart Functions in Appwrite 0.13](https://www.youtube.com/watch?v=w8zZHBDx2qY)
@@ -39,9 +39,7 @@ ___
 - [2️⃣9️⃣ #30DaysofAppwrite : Contributing to Appwrite and Open Source](https://www.youtube.com/watch?v=3yC34nxqzRo)
 <!-- YOUTUBE:END -->
 
----
-
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [I Built Bitly Clone with Redis, Express Svelte and Node &lpar; RESN&rpar;](https://dev.to/lohanidamodar/i-built-bitly-clone-with-redis-express-svelte-and-node-resn-4c71)
 - [Appwrite Loves Open Source: Why I Chose to Support Provider and Riverpod](https://dev.to/lohanidamodar/appwrite-loves-open-source-why-i-chose-to-support-provider-and-riverpod-16ag)
@@ -55,7 +53,6 @@ ___
 - [What’s New in Appwrite’s Storage](https://lohanidamodar.medium.com/whats-new-in-appwrite-s-storage-2fb0273c545b?source=rss-21afa4abace7------2)
 <!-- BLOG-POST-LIST:END -->
 
----
 
 [website]: https://dlohani.com.np
 [twitter]: https://twitter.com/lohanidamodar
