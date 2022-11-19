@@ -23,6 +23,8 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Keynote: Flutter Conf India](https://www.youtube.com/watch?v=-sfstXeupfc)
+- [Commencing now..#flutterconfin](https://www.youtube.com/watch?v=hYrTCvRCj9A)
 - [Starting Flutter Conf india](https://www.youtube.com/watch?v=9HokPXorjxE)
 - [Event Hall: Flutter Conf India](https://www.youtube.com/watch?v=cZ8aGN56Qgw)
 - [FlutterConf India met me if you are there](https://www.youtube.com/watch?v=JMcKtgrwwkM)
@@ -31,8 +33,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [[NEW] Create, Deploy and Execute Dart Functions in Appwrite 0.13](https://www.youtube.com/watch?v=w8zZHBDx2qY)
 - [What&#39;s new in Appwrite 0.12?](https://www.youtube.com/watch?v=JGOCD9uMlMk)
 - [A Brief Look at Appwrite&#39;s Upcoming Database Update](https://www.youtube.com/watch?v=hztniBQJuDE)
-- [Appwrite 0.11 with Swift and Apple Support - Let&#39;s get started with Appwrite&#39;s Apple SDK](https://www.youtube.com/watch?v=-mlG88xLQwk)
-- [Appwrite 0.10 and Getting started with Realtime Service for Flutter developers](https://www.youtube.com/watch?v=TFMC5542wjQ)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
