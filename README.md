@@ -23,6 +23,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Event Hall: Flutter Conf India](https://www.youtube.com/watch?v=cZ8aGN56Qgw)
 - [FlutterConf India met me if you are there](https://www.youtube.com/watch?v=JMcKtgrwwkM)
 - [Going to Flutter Conf India. we will Share more updates](https://www.youtube.com/watch?v=r2JBX-dTU30)
 - [I Built Bitly Clone with Redis Express Svelte and Node &lpar; RESN&rpar;](https://www.youtube.com/watch?v=lssFG92i9hA)
@@ -32,7 +33,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [Appwrite 0.11 with Swift and Apple Support - Let&#39;s get started with Appwrite&#39;s Apple SDK](https://www.youtube.com/watch?v=-mlG88xLQwk)
 - [Appwrite 0.10 and Getting started with Realtime Service for Flutter developers](https://www.youtube.com/watch?v=TFMC5542wjQ)
 - [Flutter - Firebase Integration from Scratch with Latest Stable Plugins - Firebase Auth and Firestore](https://www.youtube.com/watch?v=8SziUbsU6iU)
-- [Flutter - Let&#39;s Upgrade our Calendar App - Table Calendar and FlutterFire](https://www.youtube.com/watch?v=Tnjex6C94qc)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
