@@ -23,6 +23,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Starting Flutter Conf india](https://www.youtube.com/watch?v=9HokPXorjxE)
 - [Event Hall: Flutter Conf India](https://www.youtube.com/watch?v=cZ8aGN56Qgw)
 - [FlutterConf India met me if you are there](https://www.youtube.com/watch?v=JMcKtgrwwkM)
 - [Going to Flutter Conf India. we will Share more updates](https://www.youtube.com/watch?v=r2JBX-dTU30)
@@ -32,7 +33,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [A Brief Look at Appwrite&#39;s Upcoming Database Update](https://www.youtube.com/watch?v=hztniBQJuDE)
 - [Appwrite 0.11 with Swift and Apple Support - Let&#39;s get started with Appwrite&#39;s Apple SDK](https://www.youtube.com/watch?v=-mlG88xLQwk)
 - [Appwrite 0.10 and Getting started with Realtime Service for Flutter developers](https://www.youtube.com/watch?v=TFMC5542wjQ)
-- [Flutter - Firebase Integration from Scratch with Latest Stable Plugins - Firebase Auth and Firestore](https://www.youtube.com/watch?v=8SziUbsU6iU)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
