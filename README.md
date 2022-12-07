@@ -2,6 +2,14 @@
 
 I'm an author, mentor, trainer, and tech consultant. I'm currently working as a Software Engineer at [Appwrite.io](https://appwrite.io). I'm open for mentoring, training and consultation services.
 
+## Hey I Just Published a Book
+
+<a href="https://www.amazon.com/Taking-Flutter-Web-cross-platform-platforms/dp/1801817715">
+<img src="./assets/taking-flutter-to-web.jpg" width="200px" />
+</a>
+
+<br />
+
 ## 👷 Check out what I'm currently working on
 
   - [Appwrite](https://github.com/appwrite/appwrite)
