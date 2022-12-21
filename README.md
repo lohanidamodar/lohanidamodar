@@ -31,6 +31,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Programming Languages I&#39;ve Learned](https://www.youtube.com/watch?v=3-hXCpR1uqc)
 - [Securing Flutter Apps](https://www.youtube.com/watch?v=2QDrs-wvpRA)
 - [Keynote: Flutter Conf India](https://www.youtube.com/watch?v=-sfstXeupfc)
 - [Commencing now..#flutterconfin](https://www.youtube.com/watch?v=hYrTCvRCj9A)
@@ -40,7 +41,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [Going to Flutter Conf India. we will Share more updates](https://www.youtube.com/watch?v=r2JBX-dTU30)
 - [I Built Bitly Clone with Redis Express Svelte and Node &lpar; RESN&rpar;](https://www.youtube.com/watch?v=lssFG92i9hA)
 - [[NEW] Create, Deploy and Execute Dart Functions in Appwrite 0.13](https://www.youtube.com/watch?v=w8zZHBDx2qY)
-- [What&#39;s new in Appwrite 0.12?](https://www.youtube.com/watch?v=JGOCD9uMlMk)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
