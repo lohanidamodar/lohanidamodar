@@ -45,16 +45,16 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Asking Effective Queries](https://dlohani.com.np/blog/asking-effective-queries)
+- [My 19 Years Programming Journey](https://dlohani.com.np/blog/my-years-in-programming)
+- [My Year 31 in Review as a Developer and Content Creator](https://dlohani.com.np/blog/my-year-31-in-review)
 - [I Built Bitly Clone with Redis, Express Svelte and Node &lpar; RESN&rpar;](https://dev.to/lohanidamodar/i-built-bitly-clone-with-redis-express-svelte-and-node-resn-4c71)
 - [Appwrite Loves Open Source: Why I Chose to Support Provider and Riverpod](https://dev.to/lohanidamodar/appwrite-loves-open-source-why-i-chose-to-support-provider-and-riverpod-16ag)
+- [Should You Choose Flutter?](https://dlohani.com.np/blog/should-you-choose-flutter)
 - [Appwrite Phone Authentication with Flutter](https://dev.to/appwrite/appwrite-phone-authentication-with-flutter-3jii)
 - [Phone Authentication with Twilio and Appwrite for your Flutter Applications](https://lohanidamodar.medium.com/phone-authentication-with-twilio-and-appwrite-for-your-flutter-applications-434468bb7d85?source=rss-21afa4abace7------2)
 - [Stripe Payment with Flutter and Appwrite](https://dev.to/appwrite/stripe-payment-with-flutter-and-appwrite-2c68)
 - [Appwrite Zoom OAuth Integration](https://dev.to/appwrite/appwrite-zoom-oauth-integration-3gao)
-- [Implementing OAuth on Flutter with Appwrite](https://dev.to/appwrite/appwrite-flutter-implementing-oauth-login-aem)
-- [Social Authentication on Flutter with Appwrite](https://medium.com/appwrite-io/social-authentication-on-flutter-with-appwrite-7639529eb0cc?source=rss-21afa4abace7------2)
-- [What&#39;s New in Appwrite&#39;s Storage](https://dev.to/appwrite/whats-new-in-appwrites-storage-30pf)
-- [What’s New in Appwrite’s Storage](https://lohanidamodar.medium.com/whats-new-in-appwrite-s-storage-2fb0273c545b?source=rss-21afa4abace7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
