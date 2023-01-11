@@ -45,6 +45,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Calendar App with Flutter](https://dlohani.com.np/blog/building-calendar-app-with-flutter)
 - [Asking Effective Queries](https://dlohani.com.np/blog/asking-effective-queries)
 - [My 19 Years Programming Journey](https://dlohani.com.np/blog/my-years-in-programming)
 - [My Year 31 in Review as a Developer and Content Creator](https://dlohani.com.np/blog/my-year-31-in-review)
@@ -54,7 +55,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [Appwrite Phone Authentication with Flutter](https://dev.to/appwrite/appwrite-phone-authentication-with-flutter-3jii)
 - [Phone Authentication with Twilio and Appwrite for your Flutter Applications](https://lohanidamodar.medium.com/phone-authentication-with-twilio-and-appwrite-for-your-flutter-applications-434468bb7d85?source=rss-21afa4abace7------2)
 - [Stripe Payment with Flutter and Appwrite](https://dev.to/appwrite/stripe-payment-with-flutter-and-appwrite-2c68)
-- [Appwrite Zoom OAuth Integration](https://dev.to/appwrite/appwrite-zoom-oauth-integration-3gao)
 <!-- BLOG-POST-LIST:END -->
 
 
