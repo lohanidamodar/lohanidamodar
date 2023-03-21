@@ -31,6 +31,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [PopupBits Devlog #1 - Rebuilding Portfolio Website with Svelte Kit](https://www.youtube.com/watch?v=cQZr-bjZBXI)
 - [How to Contribute to Appwrite](https://www.youtube.com/watch?v=aDYveq0wJFQ)
 - [Programming Languages I&#39;ve Learned](https://www.youtube.com/watch?v=3-hXCpR1uqc)
 - [Securing Flutter Apps](https://www.youtube.com/watch?v=2QDrs-wvpRA)
@@ -40,7 +41,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [Event Hall: Flutter Conf India](https://www.youtube.com/watch?v=cZ8aGN56Qgw)
 - [FlutterConf India met me if you are there](https://www.youtube.com/watch?v=JMcKtgrwwkM)
 - [Going to Flutter Conf India. we will Share more updates](https://www.youtube.com/watch?v=r2JBX-dTU30)
-- [I Built Bitly Clone with Redis Express Svelte and Node &lpar; RESN&rpar;](https://www.youtube.com/watch?v=lssFG92i9hA)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
