@@ -31,8 +31,8 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Popup Bits Devlog #2 - Rebuilding Portfolio Website with Svelte Kit](https://www.youtube.com/watch?v=19_dnSMcKcU)
 - [PopupBits DEVLOG #3 - Rebuilding company website using svelte kit](https://www.youtube.com/watch?v=-O2-mYC6r6E)
+- [Popup Bits Devlog #2 - Rebuilding Portfolio Website with Svelte Kit](https://www.youtube.com/watch?v=19_dnSMcKcU)
 - [PopupBits Devlog #1 - Rebuilding Portfolio Website with Svelte Kit](https://www.youtube.com/watch?v=cQZr-bjZBXI)
 - [How to Contribute to Appwrite](https://www.youtube.com/watch?v=aDYveq0wJFQ)
 - [Programming Languages I&#39;ve Learned](https://www.youtube.com/watch?v=3-hXCpR1uqc)
