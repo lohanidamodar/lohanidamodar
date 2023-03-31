@@ -31,6 +31,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [DEVLOG T2S [#1] - Building my Side Project with Flutter + Appwrite](https://www.youtube.com/watch?v=PgH2FDYJ1XI)
 - [PopupBits DEVLOG #3 - Rebuilding company website using svelte kit](https://www.youtube.com/watch?v=-O2-mYC6r6E)
 - [Popup Bits Devlog #2 - Rebuilding Portfolio Website with Svelte Kit](https://www.youtube.com/watch?v=19_dnSMcKcU)
 - [PopupBits Devlog #1 - Rebuilding Portfolio Website with Svelte Kit](https://www.youtube.com/watch?v=cQZr-bjZBXI)
@@ -40,7 +41,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [Keynote: Flutter Conf India](https://www.youtube.com/watch?v=-sfstXeupfc)
 - [Commencing now..#flutterconfin](https://www.youtube.com/watch?v=hYrTCvRCj9A)
 - [Starting Flutter Conf india](https://www.youtube.com/watch?v=9HokPXorjxE)
-- [Event Hall: Flutter Conf India](https://www.youtube.com/watch?v=cZ8aGN56Qgw)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
