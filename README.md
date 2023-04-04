@@ -12,6 +12,8 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 👷 Check out what I'm currently working on
 
+  - [Master Flutter](https://masterflutter.appwriters.dev)
+  - [Appwriters.dev](https://appwriters.dev)
   - [Appwrite](https://github.com/appwrite/appwrite)
   - [Appwrite Auth Kit](https://github.com/lohanidamodar/appwrite_auth_kit)
   - [Clean Nepali Calendar](https://github.com/lohanidamodar/clean_nepali_calendar)
