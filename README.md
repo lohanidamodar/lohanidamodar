@@ -47,16 +47,16 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building ReactBits Website from Scratch](https://dlohani.com.np/blog/building-reactbits-website-from-scratch)
-- [Building Calendar App with Flutter](https://dlohani.com.np/blog/building-calendar-app-with-flutter)
-- [Asking Effective Queries](https://dlohani.com.np/blog/asking-effective-queries)
-- [My 19 Years Programming Journey](https://dlohani.com.np/blog/my-years-in-programming)
-- [My Year 31 in Review as a Developer and Content Creator](https://dlohani.com.np/blog/my-year-31-in-review)
-- [I Built Bitly Clone with Redis, Express Svelte and Node &lpar; RESN&rpar;](https://dev.to/lohanidamodar/i-built-bitly-clone-with-redis-express-svelte-and-node-resn-4c71)
-- [Appwrite Loves Open Source: Why I Chose to Support Provider and Riverpod](https://dev.to/lohanidamodar/appwrite-loves-open-source-why-i-chose-to-support-provider-and-riverpod-16ag)
-- [Should You Choose Flutter?](https://dlohani.com.np/blog/should-you-choose-flutter)
-- [Appwrite Phone Authentication with Flutter](https://dev.to/appwrite/appwrite-phone-authentication-with-flutter-3jii)
-- [Phone Authentication with Twilio and Appwrite for your Flutter Applications](https://lohanidamodar.medium.com/phone-authentication-with-twilio-and-appwrite-for-your-flutter-applications-434468bb7d85?source=rss-21afa4abace7------2)
+- [Get Started with Testing in Flutter](https://appwriters.dev/blog/get-started-with-testing-in-flutter)
+- [Let&#39;s Build an Android Launcher Application with Flutter](https://appwriters.dev/blog/lets-build-an-android-launcher-application-with-flutter)
+- [Recommended Flutter Plugins and Packages for Every Project](https://appwriters.dev/blog/recommended-flutter-plugins-and-packages-for-every-project)
+- [Gears I Use Every Day for Work and Personal Projects](https://appwriters.dev/blog/gears-i-use-every-day-for-work-and-personal-life)
+- [Demystifying Dart Extension Methods](https://appwriters.dev/blog/demystifying-dart-extension-methods)
+- [Testing Docker Images](https://appwriters.dev/blog/testing-docker-images)
+- [Integrating with REST API in Flutter](https://appwriters.dev/blog/integrating-with-rest-api-in-flutter)
+- [My Favorite Development Tools and Tech Stack for 2023](https://appwriters.dev/blog/my-favorite-development-tools-and-tech-stack-for-2023)
+- [Flutter Calendar App Optimizing Query and Managing Events](https://appwriters.dev/blog/2023-01-22-flutter-calendar-part-3)
+- [Loading and Displaying Events from Firestore in Flutter Calendar App](https://appwriters.dev/blog/2023-01-19-flutter-calendar-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 
