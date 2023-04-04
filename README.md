@@ -21,7 +21,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=js,html,css,swift,php,dart,flutter,appwrite,firebase" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,html,css,swift,php,dart,flutter,appwrite,firebase,svelte" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" /> <br /><br />
 
 ## Connect with me:
 [![website](https://img.shields.io/badge/web-A21432?style=for-the-badge&logo=globe&logoColor=white)](https://dlohani.com.np)
