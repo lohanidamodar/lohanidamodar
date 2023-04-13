@@ -47,6 +47,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Protect Your Applications from Bad Passwords - Introducing Password History](https://dev.to/appwrite/protect-your-applications-from-bad-passwords-introducing-password-history-19n5)
 - [Get Started with Testing in Flutter](https://appwriters.dev/blog/get-started-with-testing-in-flutter)
 - [Let&#39;s Build an Android Launcher Application with Flutter](https://appwriters.dev/blog/lets-build-an-android-launcher-application-with-flutter)
 - [Recommended Flutter Plugins and Packages for Every Project](https://appwriters.dev/blog/recommended-flutter-plugins-and-packages-for-every-project)
@@ -56,7 +57,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [Integrating with REST API in Flutter](https://appwriters.dev/blog/integrating-with-rest-api-in-flutter)
 - [My Favorite Development Tools and Tech Stack for 2023](https://appwriters.dev/blog/my-favorite-development-tools-and-tech-stack-for-2023)
 - [Flutter Calendar App Optimizing Query and Managing Events](https://appwriters.dev/blog/2023-01-22-flutter-calendar-part-3)
-- [Loading and Displaying Events from Firestore in Flutter Calendar App](https://appwriters.dev/blog/2023-01-19-flutter-calendar-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 
