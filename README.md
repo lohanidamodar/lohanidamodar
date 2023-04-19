@@ -33,6 +33,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [DEVLOG T2S [#3] - Flutter + Appwrite Authentication](https://www.youtube.com/watch?v=YtL4zWQ-I18)
 - [DEVLOG T2S [#2] - Building my Side Project with Flutter + Appwrite](https://www.youtube.com/watch?v=uDSYiT5Kxnw)
 - [DEVLOG T2S [#1] - Building my Side Project with Flutter + Appwrite](https://www.youtube.com/watch?v=PgH2FDYJ1XI)
 - [PopupBits DEVLOG #3 - Rebuilding company website using svelte kit](https://www.youtube.com/watch?v=-O2-mYC6r6E)
@@ -42,7 +43,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [Programming Languages I&#39;ve Learned](https://www.youtube.com/watch?v=3-hXCpR1uqc)
 - [Securing Flutter Apps](https://www.youtube.com/watch?v=2QDrs-wvpRA)
 - [Keynote: Flutter Conf India](https://www.youtube.com/watch?v=-sfstXeupfc)
-- [Commencing now..#flutterconfin](https://www.youtube.com/watch?v=hYrTCvRCj9A)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
