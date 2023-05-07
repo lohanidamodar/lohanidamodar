@@ -2,6 +2,12 @@
 
 I'm an author, mentor, trainer, and tech consultant. I'm currently working as a Software Engineer at [Appwrite.io](https://appwrite.io). I'm open for mentoring, training and consultation services.
 
+> 🎉 Exciting News! 🎉
+> 
+> Level up your Flutter skills in just 30 days with 🚀 [30DaysMasterFlutter](https://appwriters.dev/30days/flutter) 🚀
+>
+> 👨‍💻 [Join the fun and become a Flutter pro!](https://appwriters.dev/30days/flutter) 💪👩‍💻
+
 ## Hey I Just Published a Book
 
 <a href="https://www.amazon.com/Taking-Flutter-Web-cross-platform-platforms/dp/1801817715">
