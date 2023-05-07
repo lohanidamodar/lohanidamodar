@@ -39,6 +39,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Embark on Your Flutter Adventure:  Master Dart and Flutter in Just 30 Days #30DaysMasterFlutter](https://www.youtube.com/watch?v=OsnAmPDo83Y)
 - [Appwrite Cloud Now in Public Beta - Signup and Get Started Today](https://www.youtube.com/watch?v=IGyq57mI1CU)
 - [DEVLOG T2S [#3] - Flutter + Appwrite Authentication](https://www.youtube.com/watch?v=YtL4zWQ-I18)
 - [DEVLOG T2S [#2] - Building my Side Project with Flutter + Appwrite](https://www.youtube.com/watch?v=uDSYiT5Kxnw)
@@ -48,7 +49,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [PopupBits Devlog #1 - Rebuilding Portfolio Website with Svelte Kit](https://www.youtube.com/watch?v=cQZr-bjZBXI)
 - [How to Contribute to Appwrite](https://www.youtube.com/watch?v=aDYveq0wJFQ)
 - [Programming Languages I&#39;ve Learned](https://www.youtube.com/watch?v=3-hXCpR1uqc)
-- [Securing Flutter Apps](https://www.youtube.com/watch?v=2QDrs-wvpRA)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
