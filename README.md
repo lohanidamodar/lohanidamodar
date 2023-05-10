@@ -54,6 +54,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Embark on a Project-Based Learning Adventure with Our #30DaysMasterFlutter Challenge and Become a…](https://lohanidamodar.medium.com/embark-on-a-project-based-learning-adventure-with-our-30daysmasterflutter-challenge-and-become-a-fd22f76d2602?source=rss-21afa4abace7------2)
+- [Flutter Password Less Authentication with Appwrite Magic URL](https://appwriters.dev/blog/flutter-password-less-authentication-with-appwrite-magic-url)
 - [Join our #30DaysMasterFlutter Challenge and Learn Flutter &amp; Dart in One Month!](https://dev.to/lohanidamodar/join-our-30daysmasterflutter-challenge-and-master-flutter-dart-in-one-month-16be)
 - [The #30DaysMasterFlutter Journey Has Begun! 🚀](https://appwriters.dev/blog/30daysmasterflutter-journey-has-begun)
 - [Protect Your Applications from Bad Passwords - Introducing Password History](https://dev.to/appwrite/protect-your-applications-from-bad-passwords-introducing-password-history-19n5)
@@ -62,7 +63,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [Recommended Flutter Plugins and Packages for Every Project](https://appwriters.dev/blog/recommended-flutter-plugins-and-packages-for-every-project)
 - [Gears I Use Every Day for Work and Personal Projects](https://appwriters.dev/blog/gears-i-use-every-day-for-work-and-personal-life)
 - [Demystifying Dart Extension Methods](https://appwriters.dev/blog/demystifying-dart-extension-methods)
-- [Testing Docker Images](https://appwriters.dev/blog/testing-docker-images)
 <!-- BLOG-POST-LIST:END -->
 
 
