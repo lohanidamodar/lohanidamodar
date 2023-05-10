@@ -53,6 +53,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Embark on a Project-Based Learning Adventure with Our #30DaysMasterFlutter Challenge and Become a…](https://lohanidamodar.medium.com/embark-on-a-project-based-learning-adventure-with-our-30daysmasterflutter-challenge-and-become-a-fd22f76d2602?source=rss-21afa4abace7------2)
 - [Protect Your Applications from Bad Passwords - Introducing Password History](https://dev.to/appwrite/protect-your-applications-from-bad-passwords-introducing-password-history-19n5)
 - [Get Started with Testing in Flutter](https://appwriters.dev/blog/get-started-with-testing-in-flutter)
 - [Let&#39;s Build an Android Launcher Application with Flutter](https://appwriters.dev/blog/lets-build-an-android-launcher-application-with-flutter)
@@ -62,7 +63,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [Testing Docker Images](https://appwriters.dev/blog/testing-docker-images)
 - [Integrating with REST API in Flutter](https://appwriters.dev/blog/integrating-with-rest-api-in-flutter)
 - [My Favorite Development Tools and Tech Stack for 2023](https://appwriters.dev/blog/my-favorite-development-tools-and-tech-stack-for-2023)
-- [Flutter Calendar App Optimizing Query and Managing Events](https://appwriters.dev/blog/2023-01-22-flutter-calendar-part-3)
 <!-- BLOG-POST-LIST:END -->
 
 
