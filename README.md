@@ -53,16 +53,16 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner&#39;s Guide to the HTTP Package in Flutter](https://appwriters.dev/blog/a-beginners-guide-to-the-http-package-in-flutter)
+- [Diving Deeper into Asynchronous Programming with Futures in Flutter](https://appwriters.dev/blog/diving-deeper-int-asynchronous-programming-with-futures-in-flutter)
+- [Making Friends with Asynchronous Programming and Futures in Flutter](https://appwriters.dev/blog/making-friends-with-asynchronous-programming-and-futures-in-flutter)
 - [Embark on a Project-Based Learning Adventure with Our #30DaysMasterFlutter Challenge and Become a…](https://lohanidamodar.medium.com/embark-on-a-project-based-learning-adventure-with-our-30daysmasterflutter-challenge-and-become-a-fd22f76d2602?source=rss-21afa4abace7------2)
+- [Flutter Password Less Authentication with Appwrite Magic URL](https://appwriters.dev/blog/flutter-password-less-authentication-with-appwrite-magic-url)
 - [Join our #30DaysMasterFlutter Challenge and Learn Flutter &amp; Dart in One Month!](https://dev.to/lohanidamodar/join-our-30daysmasterflutter-challenge-and-master-flutter-dart-in-one-month-16be)
+- [The #30DaysMasterFlutter Journey Has Begun! 🚀](https://appwriters.dev/blog/30daysmasterflutter-journey-has-begun)
 - [Protect Your Applications from Bad Passwords - Introducing Password History](https://dev.to/appwrite/protect-your-applications-from-bad-passwords-introducing-password-history-19n5)
-- [Building ReactBits Website from Scratch](https://dlohani.com.np/blog/building-reactbits-website-from-scratch)
-- [Building Calendar App with Flutter](https://dlohani.com.np/blog/building-calendar-app-with-flutter)
-- [Asking Effective Queries](https://dlohani.com.np/blog/asking-effective-queries)
-- [My 19 Years Programming Journey](https://dlohani.com.np/blog/my-years-in-programming)
-- [My Year 31 in Review as a Developer and Content Creator](https://dlohani.com.np/blog/my-year-31-in-review)
-- [I Built Bitly Clone with Redis, Express Svelte and Node &lpar; RESN&rpar;](https://dev.to/lohanidamodar/i-built-bitly-clone-with-redis-express-svelte-and-node-resn-4c71)
-- [Appwrite Loves Open Source: Why I Chose to Support Provider and Riverpod](https://dev.to/lohanidamodar/appwrite-loves-open-source-why-i-chose-to-support-provider-and-riverpod-16ag)
+- [Get Started with Testing in Flutter](https://appwriters.dev/blog/get-started-with-testing-in-flutter)
+- [Let&#39;s Build an Android Launcher Application with Flutter](https://appwriters.dev/blog/lets-build-an-android-launcher-application-with-flutter)
 <!-- BLOG-POST-LIST:END -->
 
 
