@@ -53,6 +53,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner&#39;s Guide to Persisting Data with Shared Preferences in Flutter](https://appwriters.dev/blog/a-beginners-guide-to-persisting-data-with-shared-preferences-in-flutter)
 - [A Beginner&#39;s Guide to the HTTP Package in Flutter](https://appwriters.dev/blog/a-beginners-guide-to-the-http-package-in-flutter)
 - [Diving Deeper into Asynchronous Programming with Futures in Flutter](https://appwriters.dev/blog/diving-deeper-int-asynchronous-programming-with-futures-in-flutter)
 - [Making Friends with Asynchronous Programming and Futures in Flutter](https://appwriters.dev/blog/making-friends-with-asynchronous-programming-and-futures-in-flutter)
@@ -62,7 +63,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [The #30DaysMasterFlutter Journey Has Begun! 🚀](https://appwriters.dev/blog/30daysmasterflutter-journey-has-begun)
 - [Protect Your Applications from Bad Passwords - Introducing Password History](https://dev.to/appwrite/protect-your-applications-from-bad-passwords-introducing-password-history-19n5)
 - [Get Started with Testing in Flutter](https://appwriters.dev/blog/get-started-with-testing-in-flutter)
-- [Let&#39;s Build an Android Launcher Application with Flutter](https://appwriters.dev/blog/lets-build-an-android-launcher-application-with-flutter)
 <!-- BLOG-POST-LIST:END -->
 
 
