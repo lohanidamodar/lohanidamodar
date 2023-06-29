@@ -53,6 +53,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Achiving effective separation of UI and business logic in Flutter](https://appwriters.dev/blog/achiving-effective-separation-of-ui-and-business-logic-in-flutter)
 - [Using the url_launcher Plugin in Flutter - A Comprehensive Guide](https://appwriters.dev/blog/using-the-url-launcher-plugin-in-flutter-a-comprehensive-guide)
 - [A Beginner&#39;s Guide to Persisting Data with Shared Preferences in Flutter](https://appwriters.dev/blog/a-beginners-guide-to-persisting-data-with-shared-preferences-in-flutter)
 - [A Beginner&#39;s Guide to the HTTP Package in Flutter](https://appwriters.dev/blog/a-beginners-guide-to-the-http-package-in-flutter)
@@ -62,7 +63,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [Flutter Password Less Authentication with Appwrite Magic URL](https://appwriters.dev/blog/flutter-password-less-authentication-with-appwrite-magic-url)
 - [Join our #30DaysMasterFlutter Challenge and Learn Flutter &amp; Dart in One Month!](https://dev.to/lohanidamodar/join-our-30daysmasterflutter-challenge-and-master-flutter-dart-in-one-month-16be)
 - [The #30DaysMasterFlutter Journey Has Begun! 🚀](https://appwriters.dev/blog/30daysmasterflutter-journey-has-begun)
-- [Protect Your Applications from Bad Passwords - Introducing Password History](https://dev.to/appwrite/protect-your-applications-from-bad-passwords-introducing-password-history-19n5)
 <!-- BLOG-POST-LIST:END -->
 
 
