@@ -53,6 +53,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Appwrite is now available as a one-click app on the Akamai cloud &lpar;Linode&rpar; marketplace](https://dev.to/appwrite/appwrite-is-now-available-as-a-one-click-app-on-the-akamai-cloud-linode-marketplace-5ajp)
 - [Asynchronous programming with streams in Dart and Flutter](https://appwriters.dev/blog/asynchronous-programming-with-streams-in-dart-and-flutter)
 - [Achiving effective separation of UI and business logic in Flutter](https://appwriters.dev/blog/achiving-effective-separation-of-ui-and-business-logic-in-flutter)
 - [Using the url_launcher Plugin in Flutter - A Comprehensive Guide](https://appwriters.dev/blog/using-the-url-launcher-plugin-in-flutter-a-comprehensive-guide)
@@ -62,7 +63,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [Making Friends with Asynchronous Programming and Futures in Flutter](https://appwriters.dev/blog/making-friends-with-asynchronous-programming-and-futures-in-flutter)
 - [Embark on a Project-Based Learning Adventure with Our #30DaysMasterFlutter Challenge and Become a…](https://lohanidamodar.medium.com/embark-on-a-project-based-learning-adventure-with-our-30daysmasterflutter-challenge-and-become-a-fd22f76d2602?source=rss-21afa4abace7------2)
 - [Flutter Password Less Authentication with Appwrite Magic URL](https://appwriters.dev/blog/flutter-password-less-authentication-with-appwrite-magic-url)
-- [Join our #30DaysMasterFlutter Challenge and Learn Flutter &amp; Dart in One Month!](https://dev.to/lohanidamodar/join-our-30daysmasterflutter-challenge-and-master-flutter-dart-in-one-month-16be)
 <!-- BLOG-POST-LIST:END -->
 
 
