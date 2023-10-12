@@ -61,8 +61,8 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [A Beginner&#39;s Guide to the HTTP Package in Flutter](https://appwriters.dev/blog/a-beginners-guide-to-the-http-package-in-flutter)
 - [Diving Deeper into Asynchronous Programming with Futures in Flutter](https://appwriters.dev/blog/diving-deeper-int-asynchronous-programming-with-futures-in-flutter)
 - [Making Friends with Asynchronous Programming and Futures in Flutter](https://appwriters.dev/blog/making-friends-with-asynchronous-programming-and-futures-in-flutter)
-- [Embark on a Project-Based Learning Adventure with Our #30DaysMasterFlutter Challenge and Become a…](https://lohanidamodar.medium.com/embark-on-a-project-based-learning-adventure-with-our-30daysmasterflutter-challenge-and-become-a-fd22f76d2602?source=rss-21afa4abace7------2)
 - [Flutter Password Less Authentication with Appwrite Magic URL](https://appwriters.dev/blog/flutter-password-less-authentication-with-appwrite-magic-url)
+- [Join our #30DaysMasterFlutter Challenge and Learn Flutter &amp; Dart in One Month!](https://dev.to/lohanidamodar/join-our-30daysmasterflutter-challenge-and-master-flutter-dart-in-one-month-16be)
 <!-- BLOG-POST-LIST:END -->
 
 
