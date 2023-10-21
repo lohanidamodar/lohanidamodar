@@ -39,6 +39,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Re-usable Flutter widgets and scalable Flutter projects](https://www.youtube.com/watch?v=3QikoLe2kXY)
 - [Flutter 3.10 - 🌐 Fusion Unleashed: Embedding Flutter Web in a SvelteKit Application](https://www.youtube.com/watch?v=sK-wmZg9LoY)
 - [Embark on Your Flutter Adventure:  Master Dart and Flutter in Just 30 Days #30DaysMasterFlutter](https://www.youtube.com/watch?v=OsnAmPDo83Y)
 - [Appwrite Cloud Now in Public Beta - Signup and Get Started Today](https://www.youtube.com/watch?v=IGyq57mI1CU)
@@ -48,7 +49,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [PopupBits DEVLOG #3 - Rebuilding company website using svelte kit](https://www.youtube.com/watch?v=-O2-mYC6r6E)
 - [Popup Bits Devlog #2 - Rebuilding Portfolio Website with Svelte Kit](https://www.youtube.com/watch?v=19_dnSMcKcU)
 - [PopupBits Devlog #1 - Rebuilding Portfolio Website with Svelte Kit](https://www.youtube.com/watch?v=cQZr-bjZBXI)
-- [How to Contribute to Appwrite](https://www.youtube.com/watch?v=aDYveq0wJFQ)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
