@@ -53,16 +53,16 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dart mixins for everyone](https://appwriters.dev/blog/dart-mixins-for-everyone)
 - [Appwrite is now available as a one-click app on the Akamai cloud &lpar;Linode&rpar; marketplace](https://dev.to/appwrite/appwrite-is-now-available-as-a-one-click-app-on-the-akamai-cloud-linode-marketplace-5ajp)
+- [Asynchronous programming with streams in Dart and Flutter](https://appwriters.dev/blog/asynchronous-programming-with-streams-in-dart-and-flutter)
+- [Achiving effective separation of UI and business logic in Flutter](https://appwriters.dev/blog/achiving-effective-separation-of-ui-and-business-logic-in-flutter)
+- [Using the url_launcher Plugin in Flutter - A Comprehensive Guide](https://appwriters.dev/blog/using-the-url-launcher-plugin-in-flutter-a-comprehensive-guide)
+- [A Beginner&#39;s Guide to Persisting Data with Shared Preferences in Flutter](https://appwriters.dev/blog/a-beginners-guide-to-persisting-data-with-shared-preferences-in-flutter)
+- [A Beginner&#39;s Guide to the HTTP Package in Flutter](https://appwriters.dev/blog/a-beginners-guide-to-the-http-package-in-flutter)
+- [Diving Deeper into Asynchronous Programming with Futures in Flutter](https://appwriters.dev/blog/diving-deeper-int-asynchronous-programming-with-futures-in-flutter)
+- [Making Friends with Asynchronous Programming and Futures in Flutter](https://appwriters.dev/blog/making-friends-with-asynchronous-programming-and-futures-in-flutter)
 - [Embark on a Project-Based Learning Adventure with Our #30DaysMasterFlutter Challenge and Become a…](https://lohanidamodar.medium.com/embark-on-a-project-based-learning-adventure-with-our-30daysmasterflutter-challenge-and-become-a-fd22f76d2602?source=rss-21afa4abace7------2)
-- [Join our #30DaysMasterFlutter Challenge and Learn Flutter &amp; Dart in One Month!](https://dev.to/lohanidamodar/join-our-30daysmasterflutter-challenge-and-master-flutter-dart-in-one-month-16be)
-- [Protect Your Applications from Bad Passwords - Introducing Password History](https://dev.to/appwrite/protect-your-applications-from-bad-passwords-introducing-password-history-19n5)
-- [Building ReactBits Website from Scratch](https://dlohani.com.np/blog/building-reactbits-website-from-scratch)
-- [Building Calendar App with Flutter](https://dlohani.com.np/blog/building-calendar-app-with-flutter)
-- [Asking Effective Queries](https://dlohani.com.np/blog/asking-effective-queries)
-- [My 19 Years Programming Journey](https://dlohani.com.np/blog/my-years-in-programming)
-- [My Year 31 in Review as a Developer and Content Creator](https://dlohani.com.np/blog/my-year-31-in-review)
-- [I Built Bitly Clone with Redis, Express Svelte and Node &lpar; RESN&rpar;](https://dev.to/lohanidamodar/i-built-bitly-clone-with-redis-express-svelte-and-node-resn-4c71)
 <!-- BLOG-POST-LIST:END -->
 
 
