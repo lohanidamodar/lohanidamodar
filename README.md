@@ -41,6 +41,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 <!-- YOUTUBE:START -->
 - [[ 01 ] Getting started with Appwrite - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=WiOOowM9FVE)
 - [[ 00 ] Introduction - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=cmboLwHvsFU)
+- [[ 02 ] Getting started with Flutter - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=EmCLluiaXyo)
 - [Re-usable Flutter widgets and scalable Flutter projects](https://www.youtube.com/watch?v=3QikoLe2kXY)
 - [Flutter 3.10 - 🌐 Fusion Unleashed: Embedding Flutter Web in a SvelteKit Application](https://www.youtube.com/watch?v=sK-wmZg9LoY)
 - [Embark on Your Flutter Adventure:  Master Dart and Flutter in Just 30 Days #30DaysMasterFlutter](https://www.youtube.com/watch?v=OsnAmPDo83Y)
@@ -48,7 +49,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [DEVLOG T2S [#3] - Flutter + Appwrite Authentication](https://www.youtube.com/watch?v=YtL4zWQ-I18)
 - [DEVLOG T2S [#2] - Building my Side Project with Flutter + Appwrite](https://www.youtube.com/watch?v=uDSYiT5Kxnw)
 - [DEVLOG T2S [#1] - Building my Side Project with Flutter + Appwrite](https://www.youtube.com/watch?v=PgH2FDYJ1XI)
-- [PopupBits DEVLOG #3 - Rebuilding company website using svelte kit](https://www.youtube.com/watch?v=-O2-mYC6r6E)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
