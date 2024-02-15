@@ -39,6 +39,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[ 05 ] Setup state management - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=8k42p7HK8v0)
 - [[ 04 ] Dependency injection - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=oc73TnuEitg)
 - [[ 03 ] Integrating Flutter and Appwrite - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=3-ejU2yU-rQ)
 - [[ 02 ] Getting started with Flutter - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=EmCLluiaXyo)
@@ -48,7 +49,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [Flutter 3.10 - 🌐 Fusion Unleashed: Embedding Flutter Web in a SvelteKit Application](https://www.youtube.com/watch?v=sK-wmZg9LoY)
 - [Embark on Your Flutter Adventure:  Master Dart and Flutter in Just 30 Days #30DaysMasterFlutter](https://www.youtube.com/watch?v=OsnAmPDo83Y)
 - [Appwrite Cloud Now in Public Beta - Signup and Get Started Today](https://www.youtube.com/watch?v=IGyq57mI1CU)
-- [DEVLOG T2S [#3] - Flutter + Appwrite Authentication](https://www.youtube.com/watch?v=YtL4zWQ-I18)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
