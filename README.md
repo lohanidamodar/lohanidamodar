@@ -53,6 +53,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google generative AI with Flutter using the official Dart SDK](https://appwriters.dev/blog/google-generative-ai-with-flutter)
 - [Dart mixins for everyone](https://appwriters.dev/blog/dart-mixins-for-everyone)
 - [Appwrite is now available as a one-click app on the Akamai cloud &lpar;Linode&rpar; marketplace](https://dev.to/appwrite/appwrite-is-now-available-as-a-one-click-app-on-the-akamai-cloud-linode-marketplace-5ajp)
 - [Asynchronous programming with streams in Dart and Flutter](https://appwriters.dev/blog/asynchronous-programming-with-streams-in-dart-and-flutter)
@@ -62,7 +63,6 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 - [A Beginner&#39;s Guide to the HTTP Package in Flutter](https://appwriters.dev/blog/a-beginners-guide-to-the-http-package-in-flutter)
 - [Diving Deeper into Asynchronous Programming with Futures in Flutter](https://appwriters.dev/blog/diving-deeper-int-asynchronous-programming-with-futures-in-flutter)
 - [Making Friends with Asynchronous Programming and Futures in Flutter](https://appwriters.dev/blog/making-friends-with-asynchronous-programming-and-futures-in-flutter)
-- [Embark on a Project-Based Learning Adventure with Our #30DaysMasterFlutter Challenge and Become a…](https://lohanidamodar.medium.com/embark-on-a-project-based-learning-adventure-with-our-30daysmasterflutter-challenge-and-become-a-fd22f76d2602?source=rss-21afa4abace7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
