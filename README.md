@@ -9,7 +9,7 @@ I'm an **author**, **mentor**, **trainer**, and **tech consultant**. I'm current
 > - A comprehensive book on <a href="https://www.amazon.com/Taking-Flutter-Web-cross-platform-platforms/dp/1801817715">
 Taking Flutter to Web
 </a>
-> 
+
 
 <br />
 
