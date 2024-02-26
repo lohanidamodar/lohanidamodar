@@ -11,8 +11,6 @@ Taking Flutter to Web
 </a>
 
 
-<br />
-
 ## 👷 Check out what I'm currently working on
 
   - [Flutter Appwrite course](https://appwriters.dev/courses/flutter-appwrite)
