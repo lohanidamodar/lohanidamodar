@@ -1,23 +1,21 @@
-# Namaste, Damodar Here from Nepal! 👋
+# Namaste, Damodar here from Nepal! 👋
 
-I'm an author, mentor, trainer, and tech consultant. I'm currently working as a Software Engineer at [Appwrite.io](https://appwrite.io). I'm open for mentoring, training and consultation services.
+I'm an **author**, **mentor**, **trainer**, and **tech consultant**. I'm currently working as a Software Engineer at [Appwrite](https://appwrite.io).
 
 > 🎉 Exciting News! 🎉
 > 
-> Level up your Flutter skills in just 30 days with 🚀 [30DaysMasterFlutter](https://appwriters.dev/30days/flutter) 🚀
+> - Level up your Flutter skills in just 30 days with 🚀 [30DaysMasterFlutter](https://appwriters.dev/30days/flutter) 🚀
 >
-> 👨‍💻 [Join the fun and become a Flutter pro!](https://appwriters.dev/30days/flutter) 💪👩‍💻
-
-## Hey I Just Published a Book
-
-<a href="https://www.amazon.com/Taking-Flutter-Web-cross-platform-platforms/dp/1801817715">
-<img src="./assets/taking-flutter-to-web.jpg" width="200px" />
+> - A comprehensive book on <a href="https://www.amazon.com/Taking-Flutter-Web-cross-platform-platforms/dp/1801817715">
+Taking Flutter to Web
 </a>
+> 
 
 <br />
 
 ## 👷 Check out what I'm currently working on
 
+  - [Flutter Appwrite course](https://appwriters.dev/courses/flutter-appwrite)
   - [Master Flutter](https://masterflutter.appwriters.dev)
   - [Appwriters.dev](https://appwriters.dev)
   - [Appwrite](https://github.com/appwrite/appwrite)
@@ -27,13 +25,15 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 
 ## Tech Stack
+
 <img src="https://skillicons.dev/icons?i=js,html,css,swift,php,dart,flutter,appwrite,firebase,svelte" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" /> <br /><br />
 
 ## Connect with me:
+
 [![website](https://img.shields.io/badge/web-A21432?style=for-the-badge&logo=globe&logoColor=white)](https://dlohani.com.np)
-[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/reactbits)
+[![blog](https://img.shields.io/badge/blog-A21432?style=for-the-badge&logo=globe&logoColor=white)](https://appwriters.dev)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@appwriters)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/arorapranav187/)
-[![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/lohanidamodar)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohanidamodar/)
 
 
@@ -67,6 +67,7 @@ I'm an author, mentor, trainer, and tech consultant. I'm currently working as a 
 
 
 [website]: https://dlohani.com.np
+[blog]: https://appwriters.dev
 [twitter]: https://twitter.com/lohanidamodar
 [youtube]: https://youtube.com/reactbits
 [linkedin]: https://linkedin.com/in/lohanidamodar
