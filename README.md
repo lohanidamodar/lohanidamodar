@@ -42,11 +42,11 @@ Taking Flutter to Web
 - [[ 04 ] Dependency injection - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=oc73TnuEitg)
 - [[ 03 ] Integrating Flutter and Appwrite - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=3-ejU2yU-rQ)
 - [[ 02 ] Getting started with Flutter - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=EmCLluiaXyo)
+- [[ 07 ] Creating account for your user - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=fuA9scGDaEs)
 - [[ 01 ] Getting started with Appwrite - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=WiOOowM9FVE)
 - [[ 00 ] Introduction - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=cmboLwHvsFU)
 - [Re-usable Flutter widgets and scalable Flutter projects](https://www.youtube.com/watch?v=3QikoLe2kXY)
 - [Flutter 3.10 - 🌐 Fusion Unleashed: Embedding Flutter Web in a SvelteKit Application](https://www.youtube.com/watch?v=sK-wmZg9LoY)
-- [Embark on Your Flutter Adventure:  Master Dart and Flutter in Just 30 Days #30DaysMasterFlutter](https://www.youtube.com/watch?v=OsnAmPDo83Y)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
