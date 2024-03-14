@@ -37,6 +37,7 @@ Taking Flutter to Web
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[ 09 ] Authentication state manager - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=NhGgCVC5XjY)
 - [[ 08 ] Authenticate user - login - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=SjvL-hkn-UY)
 - [[ 07 ] Creating account for your user - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=fuA9scGDaEs)
 - [[ 06 ] Routing - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=69HUy0mGIaU)
@@ -46,7 +47,6 @@ Taking Flutter to Web
 - [[ 02 ] Getting started with Flutter - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=EmCLluiaXyo)
 - [[ 01 ] Getting started with Appwrite - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=WiOOowM9FVE)
 - [[ 00 ] Introduction - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=cmboLwHvsFU)
-- [Re-usable Flutter widgets and scalable Flutter projects](https://www.youtube.com/watch?v=3QikoLe2kXY)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
