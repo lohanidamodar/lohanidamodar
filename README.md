@@ -37,6 +37,7 @@ Taking Flutter to Web
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter - Interactive map from SVG](https://www.youtube.com/watch?v=RMN1e9NGNIE)
 - [[ 10 ] Authenticated routes - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=hiDDqbOVoHg)
 - [[ 09 ] Authentication state manager - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=NhGgCVC5XjY)
 - [[ 08 ] Authenticate user - login - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=SjvL-hkn-UY)
@@ -46,7 +47,6 @@ Taking Flutter to Web
 - [[ 04 ] Dependency injection - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=oc73TnuEitg)
 - [[ 03 ] Integrating Flutter and Appwrite - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=3-ejU2yU-rQ)
 - [[ 02 ] Getting started with Flutter - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=EmCLluiaXyo)
-- [[ 01 ] Getting started with Appwrite - Cross platform applications with Flutter and Appwrite 2024](https://www.youtube.com/watch?v=WiOOowM9FVE)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
