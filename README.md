@@ -14,7 +14,7 @@ I'm an **author**, **mentor**, **trainer**, and **tech consultant**. I'm current
 
 ## 👷 Check out what I'm currently working on
 
-  - [Mero Nepali, nepali learning app for kids](https://play.google.com/store/apps/details?id=dev.appwriters.mero_nepali)
+  - [Mero Nepali, learning app for kids](https://play.google.com/store/apps/details?id=dev.appwriters.mero_nepali)
   - [Flutter Appwrite course](https://appwriters.dev/courses/flutter-appwrite)
   - [Master Flutter](https://masterflutter.appwriters.dev)
   - [Appwriters.dev](https://appwriters.dev)
