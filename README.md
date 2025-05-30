@@ -2,17 +2,19 @@
 
 I'm an **author**, **mentor**, **trainer**, and **tech consultant**. I'm currently working as a Software Engineer at [Appwrite](https://appwrite.io).
 
+<img src="./assets/gde_flutter.svg" style="max-width: 500px" title="GDE for Flutter and Dart" />
+
+<br />
+
+> 
 > 🎉 Exciting News! 🎉
 > 
-> - Level up your Flutter skills in just 30 days with 🚀 [30DaysMasterFlutter](https://appwriters.dev/30days/flutter) 🚀
+> Level up your Flutter skills in just 30 days with 🚀 [30DaysMasterFlutter](https://appwriters.dev/30days/flutter) 🚀
 >
-> - A comprehensive book on <a href="https://www.amazon.com/Taking-Flutter-Web-cross-platform-platforms/dp/1801817715">
-Taking Flutter to Web
-</a>
-
 
 ## 👷 Check out what I'm currently working on
 
+  - [Mero Nepali, nepali learning app for kids](https://play.google.com/store/apps/details?id=dev.appwriters.mero_nepali)
   - [Flutter Appwrite course](https://appwriters.dev/courses/flutter-appwrite)
   - [Master Flutter](https://masterflutter.appwriters.dev)
   - [Appwriters.dev](https://appwriters.dev)
@@ -20,6 +22,7 @@ Taking Flutter to Web
   - [Appwrite Auth Kit](https://github.com/lohanidamodar/appwrite_auth_kit)
   - [Clean Nepali Calendar](https://github.com/lohanidamodar/clean_nepali_calendar)
   - [Utopia Dart Framework](https://github.com/utopia-dart)
+  - [Taking Flutter to Web, book](https://www.amazon.com/Taking-Flutter-Web-cross-platform-platforms/dp/1801817715)
 
 
 ## Tech Stack
