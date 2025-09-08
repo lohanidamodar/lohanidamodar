@@ -57,7 +57,7 @@ I'm an **author**, **mentor**, **trainer**, and **tech consultant**. I'm current
 - [Build interactive maps in Flutter with SVG](https://appwriters.dev/blog/flutter-interactive-svg-maps)
 - [Google generative AI with Flutter using the official Dart SDK](https://appwriters.dev/blog/google-generative-ai-with-flutter)
 - [Dart mixins for everyone](https://appwriters.dev/blog/dart-mixins-for-everyone)
-- [Appwrite is now available as a one-click app on the Akamai cloud &lpar;Linode&rpar; marketplace](https://forem.com/appwrite/appwrite-is-now-available-as-a-one-click-app-on-the-akamai-cloud-linode-marketplace-5ajp)
+- [Appwrite is now available as a one-click app on the Akamai cloud &lpar;Linode&rpar; marketplace](https://dev.to/appwrite/appwrite-is-now-available-as-a-one-click-app-on-the-akamai-cloud-linode-marketplace-5ajp)
 - [Asynchronous programming with streams in Dart and Flutter](https://appwriters.dev/blog/asynchronous-programming-with-streams-in-dart-and-flutter)
 - [Achiving effective separation of UI and business logic in Flutter](https://appwriters.dev/blog/achiving-effective-separation-of-ui-and-business-logic-in-flutter)
 - [Using the url_launcher Plugin in Flutter - A Comprehensive Guide](https://appwriters.dev/blog/using-the-url-launcher-plugin-in-flutter-a-comprehensive-guide)
