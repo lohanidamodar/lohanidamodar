@@ -55,15 +55,15 @@ I'm an **author**, **mentor**, **trainer**, and **tech consultant**. I'm current
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Appwrite is now available as a one-click app on the Akamai cloud &lpar;Linode&rpar; marketplace](https://dev.to/appwrite/appwrite-is-now-available-as-a-one-click-app-on-the-akamai-cloud-linode-marketplace-5ajp)
-- [Embark on a Project-Based Learning Adventure with Our #30DaysMasterFlutter Challenge and Become a…](https://lohanidamodar.medium.com/embark-on-a-project-based-learning-adventure-with-our-30daysmasterflutter-challenge-and-become-a-fd22f76d2602?source=rss-21afa4abace7------2)
 - [Join our #30DaysMasterFlutter Challenge and Learn Flutter &amp; Dart in One Month!](https://dev.to/lohanidamodar/join-our-30daysmasterflutter-challenge-and-master-flutter-dart-in-one-month-16be)
 - [Protect Your Applications from Bad Passwords - Introducing Password History](https://dev.to/appwrite/protect-your-applications-from-bad-passwords-introducing-password-history-19n5)
 - [I Built Bitly Clone with Redis, Express Svelte and Node &lpar; RESN&rpar;](https://dev.to/lohanidamodar/i-built-bitly-clone-with-redis-express-svelte-and-node-resn-4c71)
 - [Appwrite Loves Open Source: Why I Chose to Support Provider and Riverpod](https://dev.to/lohanidamodar/appwrite-loves-open-source-why-i-chose-to-support-provider-and-riverpod-16ag)
 - [Appwrite Phone Authentication with Flutter](https://dev.to/appwrite/appwrite-phone-authentication-with-flutter-3jii)
-- [Phone Authentication with Twilio and Appwrite for your Flutter Applications](https://lohanidamodar.medium.com/phone-authentication-with-twilio-and-appwrite-for-your-flutter-applications-434468bb7d85?source=rss-21afa4abace7------2)
 - [Stripe Payment with Flutter and Appwrite](https://dev.to/appwrite/stripe-payment-with-flutter-and-appwrite-2c68)
 - [Appwrite Zoom OAuth Integration](https://dev.to/appwrite/appwrite-zoom-oauth-integration-3gao)
+- [Implementing OAuth on Flutter with Appwrite](https://dev.to/appwrite/appwrite-flutter-implementing-oauth-login-aem)
+- [What&#39;s New in Appwrite&#39;s Storage](https://dev.to/appwrite/whats-new-in-appwrites-storage-30pf)
 <!-- BLOG-POST-LIST:END -->
 
 
